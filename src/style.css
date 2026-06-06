@@ -22,6 +22,9 @@
   --warn: oklch(0.52 0.13 47);
   --warn-weak: oklch(0.96 0.03 60);
   --warn-border: oklch(0.8 0.09 60);
+  --err: oklch(0.52 0.18 25);
+  --err-weak: oklch(0.96 0.04 25);
+  --err-border: oklch(0.80 0.12 25);
 
   /* type */
   --sans: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -91,6 +94,21 @@ main { padding: var(--s6) 0 var(--s2); display: grid; gap: var(--s5); }
   overflow: clip;
 }
 .panel__head { padding: var(--s5) var(--s5) 0; }
+.panel__head-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s5);
+}
+.panel__deco {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  opacity: 0.12;
+  flex-shrink: 0;
+  pointer-events: none;
+  user-select: none;
+}
 .panel__head h2 {
   margin: 0;
   font-size: 12px;
@@ -157,10 +175,6 @@ form { padding: var(--s5); }
 .field input.input--err { border-color: var(--err-border); background: var(--err-weak); }
 .field input.input--err:focus { border-color: var(--err); box-shadow: 0 0 0 3px color-mix(in oklch, var(--err) 30%, transparent); }
 .field__err { font-size: 10px; color: var(--err); min-height: 14px; display: block; }
-/* error state */
---err: oklch(0.52 0.18 25);
---err-weak: oklch(0.96 0.04 25);
---err-border: oklch(0.80 0.12 25);
 
 
 /* ---------- actions / buttons ---------- */
@@ -223,6 +237,19 @@ form { padding: var(--s5); }
   background: var(--surface-sunken); color: var(--ink-faint);
   font-style: italic; font-weight: 500;
 }
+.comp {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px var(--s3);
+  margin-top: var(--s2);
+}
+.comp__item {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink-muted);
+  white-space: nowrap;
+}
+.comp__sym { font-weight: 600; color: var(--ink-faint); margin-right: 2px; }
 .result__score { display: flex; flex-direction: column; align-items: flex-end; gap: var(--s1); }
 .result__pct { font-family: var(--mono); font-size: 15px; font-weight: 700; color: var(--ink); font-variant-numeric: tabular-nums; }
 .bar {

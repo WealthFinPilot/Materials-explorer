@@ -165,7 +165,7 @@ function onAnalyze(e) {
     return;
   }
   const results = rank(values, data[current], 10);
-  render(results, Object.keys(values).length);
+  render(results, Object.keys(values).length, values);
 }
 
 function showFormError(msg) {
@@ -191,7 +191,7 @@ function renderEmpty() {
     '<p class="empty">Enter at least one measured value above, then run the match.</p>';
 }
 
-function render(results, nEntered) {
+function render(results, nEntered, values) {
   $('#results-panel').hidden = false;
   $('#results-hint').textContent =
     `Ranked by weighted similarity over ${nEntered} entered element${nEntered > 1 ? 's' : ''}, against ${data[current].alloys.length} ${data[current].label} references.`;
@@ -205,19 +205,28 @@ function render(results, nEntered) {
     warning.hidden = true;
   }
 
-  $('#results').innerHTML = results.map(rowHtml).join('');
+  const enteredEls = Object.keys(values);
+  $('#results').innerHTML = results.map((r, i) => rowHtml(r, i, enteredEls)).join('');
 }
 
-function rowHtml(r, i) {
+function rowHtml(r, i, enteredEls) {
   const grade = r.grade
     ? `<span class="result__grade">${escapeHtml(r.grade)}</span>`
     : `<span class="result__grade result__grade--none">grade n/a</span>`;
+
+  const compItems = enteredEls
+    .filter((el) => r.composition[el] != null)
+    .map((el) => `<span class="comp__item"><span class="comp__sym">${el}</span>${r.composition[el].toFixed(3)}%</span>`)
+    .join('');
+  const comp = compItems ? `<div class="comp">${compItems}</div>` : '';
+
   return `
     <div class="result ${i === 0 ? 'result--top' : ''}" style="--d:${Math.min(i * 28, 224)}ms">
       <div class="result__rank">${i + 1}</div>
       <div>
         <div class="result__std">${escapeHtml(r.std)}</div>
         ${grade}
+        ${comp}
       </div>
       <div class="result__score">
         <span class="result__pct">${pct(r.score)}</span>
