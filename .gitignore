@@ -1,6 +1,7 @@
-# Source workbook & exported VBA — not published (see CLAUDE.md)
+# Source workbooks & exported VBA — not published (see CLAUDE.md)
 OES-DataBase_R01.xlsm
 *.xlsm
+*.xlsx
 vba-code/
 Choix des matériaux.pdf
 *.pdf
