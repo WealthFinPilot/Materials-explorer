@@ -16,20 +16,28 @@ ok(similarity(0, 0) === 1, 'similarity 0/0 = 1');
 ok(Math.abs(similarity(2, 4) - 0.5) < 1e-12, 'similarity 2/4 = 0.5');
 ok(similarity(3, 0) === 0, 'similarity vs missing = 0');
 
-// --- identity: each alloy fed as input must rank itself #1 ---
+// --- identity: each alloy fed as input must achieve the top score (1.0) ---
+// After the V2 expansion some grades are chemically indistinguishable on the
+// measured element set (e.g. 5160/51B60 differ only by B; 304L/304LN only by N,
+// which is not modelled). Such grades legitimately tie at score 1.0, so the
+// invariant is "self is co-top", not "self is the unique #1". `unique` is kept
+// as an informational count.
 for (const name of ['fe01', 'fe30']) {
   const silo = load(name);
-  let selfTop = 0;
+  let coTop = 0;
+  let unique = 0;
   for (const a of silo.alloys) {
     const input = {};
     for (const [el, v] of Object.entries(a.composition)) {
       if (typeof v === 'number' && v > 0) input[el] = v;
     }
-    const res = rank(input, silo, 1);
-    if (res[0] && res[0].std === a.std) selfTop++;
+    const res = rank(input, silo, silo.alloys.length);
+    const top = res[0] ? res[0].score : 0;
+    if (top === 1 && res.some((r) => r.std === a.std && r.score === 1)) coTop++;
+    if (res[0] && res[0].std === a.std) unique++;
   }
-  ok(selfTop === silo.alloys.length, `${name}: identity ${selfTop}/${silo.alloys.length}`);
-  console.log(`  ${name}: identity ${selfTop}/${silo.alloys.length}, top score bounded:`,
+  ok(coTop === silo.alloys.length, `${name}: identity ${coTop}/${silo.alloys.length}`);
+  console.log(`  ${name}: identity ${coTop}/${silo.alloys.length} (unique #1: ${unique}), top score bounded:`,
     rank({ C: 0.082, Cr: 0.94 }, silo, 1)[0].score <= 1);
 }
 

@@ -1,0 +1,3764 @@
+[
+  {
+    "std": "N08020",
+    "grade": "N08020",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.07",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.035",
+      "Si": "1",
+      "Ni": "32.0–38.0",
+      "Cr": "19.0–21.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": "3.00–4.00"
+    }
+  },
+  {
+    "std": "N08367",
+    "grade": "N08367",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "23.5–25.5",
+      "Cr": "20.0–22.0",
+      "Mo": "6.0–7.0",
+      "V": "",
+      "Cu": "0.75"
+    }
+  },
+  {
+    "std": "N08700",
+    "grade": "N08700",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.04",
+      "Mn": "2",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "24.0–26.0",
+      "Cr": "19.0–23.0",
+      "Mo": "4.3–5.0",
+      "V": "",
+      "Cu": "0.5"
+    }
+  },
+  {
+    "std": "800",
+    "grade": "800",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.1",
+      "Mn": "1.5",
+      "P": "0.045",
+      "S": "0.015",
+      "Si": "1",
+      "Ni": "30.0–35.0",
+      "Cr": "19.0–23.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "0.75"
+    }
+  },
+  {
+    "std": "800H",
+    "grade": "800H",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.05–0.10",
+      "Mn": "1.5",
+      "P": "0.045",
+      "S": "0.015",
+      "Si": "1",
+      "Ni": "30.0–35.0",
+      "Cr": "19.0–23.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "0.75"
+    }
+  },
+  {
+    "std": "N08811",
+    "grade": "N08811",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.06–0.10",
+      "Mn": "1.5",
+      "P": "0.04",
+      "S": "0.015",
+      "Si": "1",
+      "Ni": "30.0–35.0",
+      "Cr": "19.0–23.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "0.75"
+    }
+  },
+  {
+    "std": "904L",
+    "grade": "904L",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.02",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.035",
+      "Si": "1",
+      "Ni": "23.0–28.0",
+      "Cr": "19.0–23.0",
+      "Mo": "4.00–5.00",
+      "V": "",
+      "Cu": "1.00–2.00"
+    }
+  },
+  {
+    "std": "N08925",
+    "grade": "N08925",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.02",
+      "Mn": "1",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.5",
+      "Ni": "24.0–26.0",
+      "Cr": "19.0–21.0",
+      "Mo": "6.00–7.00",
+      "V": "",
+      "Cu": "0.80–1.50"
+    }
+  },
+  {
+    "std": "N08926",
+    "grade": "N08926",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.02",
+      "Mn": "2",
+      "P": "0.03",
+      "S": "0.01",
+      "Si": "0.5",
+      "Ni": "24.0–26.0",
+      "Cr": "19.0–21.0",
+      "Mo": "6.00–7.00",
+      "V": "",
+      "Cu": "0.50–1.50"
+    }
+  },
+  {
+    "std": "201",
+    "grade": "201",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.15",
+      "Mn": "5.50–7.50",
+      "P": "0.06",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "3.5–5.5",
+      "Cr": "16.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S20103",
+    "grade": "S20103",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "5.50–7.50",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "3.5–5.5",
+      "Cr": "16.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S20153",
+    "grade": "S20153",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "6.40–7.50",
+      "P": "0.045",
+      "S": "0.015",
+      "Si": "0.75",
+      "Ni": "4.0–5.0",
+      "Cr": "16.0–17.5",
+      "Mo": "",
+      "V": "",
+      "Cu": "1"
+    }
+  },
+  {
+    "std": "S20161",
+    "grade": "S20161",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.15",
+      "Mn": "4.00–6.00",
+      "P": "0.04",
+      "S": "0.04",
+      "Si": "3.00–4.00",
+      "Ni": "4.0–6.0",
+      "Cr": "15.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "202",
+    "grade": "202",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.15",
+      "Mn": "7.50–10.00",
+      "P": "0.06",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "4.0–6.0",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S20400",
+    "grade": "S20400",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "7.00–9.00",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "1.50–3.00",
+      "Cr": "15.0–17.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S20431",
+    "grade": "S20431",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.12",
+      "Mn": "5.00–7.00",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "2.0–4.0",
+      "Cr": "17.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "1.50–3.50"
+    }
+  },
+  {
+    "std": "S20432",
+    "grade": "S20432",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "3.00–5.00",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "4.0–6.0",
+      "Cr": "17.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "2.00–3.00"
+    }
+  },
+  {
+    "std": "S20433",
+    "grade": "S20433",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "5.50–7.50",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "3.5–5.5",
+      "Cr": "17.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "1.50–3.50"
+    }
+  },
+  {
+    "std": "XM-19",
+    "grade": "XM-19",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.06",
+      "Mn": "4.00–6.00",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "11.5–13.5",
+      "Cr": "20.5–23.5",
+      "Mo": "1.50–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "XM-31",
+    "grade": "XM-31",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.12",
+      "Mn": "14.00–16.00",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.30–1.00",
+      "Ni": "1",
+      "Cr": "17.0–18.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "XM-17",
+    "grade": "XM-17",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "7.50–9.00",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "5.0–7.0",
+      "Cr": "17.5–22.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "XM-18",
+    "grade": "XM-18",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "7.50–9.00",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "5.0–7.0",
+      "Cr": "17.5–22.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S21640",
+    "grade": "S21640",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "3.50–6.50",
+      "P": "0.06",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "4.0–6.5",
+      "Cr": "17.5–19.5",
+      "Mo": "0.50–2.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S21800",
+    "grade": "S21800",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.1",
+      "Mn": "7.00–9.00",
+      "P": "0.06",
+      "S": "0.03",
+      "Si": "3.5–4.5",
+      "Ni": "8.0–9.0",
+      "Cr": "16.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "XM-11",
+    "grade": "XM-11",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04",
+      "Mn": "8.00–10.00",
+      "P": "0.06",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "5.5–7.5",
+      "Cr": "19.0–21.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "XM-29",
+    "grade": "XM-29",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "11.50–14.50",
+      "P": "0.06",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "2.3–3.7",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "301",
+    "grade": "301",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.15",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "6.0–8.0",
+      "Cr": "16.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "301L",
+    "grade": "301L",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "6.0–8.0",
+      "Cr": "16.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "301LN",
+    "grade": "301LN",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "6.0–8.0",
+      "Cr": "16.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "302",
+    "grade": "302",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.15",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "8.0–10.0",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "304",
+    "grade": "304",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "8.0–11.0",
+      "Cr": "18.0–20.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "304L",
+    "grade": "304L",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "8.0–12.0",
+      "Cr": "18.0–20.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "304H",
+    "grade": "304H",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.10",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "8.0–10.5",
+      "Cr": "18.0–20.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S30415",
+    "grade": "S30415",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.06",
+      "Mn": "0.8",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1.00–2.00",
+      "Ni": "9.0–10.0",
+      "Cr": "18.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S30435",
+    "grade": "S30435",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "7.0–9.0",
+      "Cr": "16.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "1.50–3.00"
+    }
+  },
+  {
+    "std": "S30441",
+    "grade": "S30441",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1.0–2.0",
+      "Ni": "8.0–10.5",
+      "Cr": "17.5–19.5",
+      "Mo": "",
+      "V": "",
+      "Cu": "1.5–2.5"
+    }
+  },
+  {
+    "std": "304N",
+    "grade": "304N",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "8.0–10.5",
+      "Cr": "18.0–20.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "XM-21",
+    "grade": "XM-21",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "8.0–10.5",
+      "Cr": "18.0–20.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "304LN",
+    "grade": "304LN",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "8.0–12.0",
+      "Cr": "18.0–20.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "305",
+    "grade": "305",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.12",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "10.5–13.0",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S30530",
+    "grade": "S30530",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.50–2.50",
+      "Ni": "8.5–11.5",
+      "Cr": "17.0–20.5",
+      "Mo": "0.75–1.50",
+      "V": "",
+      "Cu": "0.75–3.50"
+    }
+  },
+  {
+    "std": "S30600",
+    "grade": "S30600",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.018",
+      "Mn": "2",
+      "P": "0.02",
+      "S": "0.02",
+      "Si": "3.7–4.3",
+      "Ni": "14.0–15.5",
+      "Cr": "17.0–18.5",
+      "Mo": "0.2",
+      "V": "",
+      "Cu": "0.5"
+    }
+  },
+  {
+    "std": "S30616",
+    "grade": "S30616",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.02",
+      "Mn": "1.5",
+      "P": "0.03",
+      "S": "0.015",
+      "Si": "3.9–4.7",
+      "Ni": "13.0–15.5",
+      "Cr": "16.5–18.5",
+      "Mo": "0.5",
+      "V": "",
+      "Cu": "0.4"
+    }
+  },
+  {
+    "std": "S30601",
+    "grade": "S30601",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.015",
+      "Mn": "0.50–0.80",
+      "P": "0.03",
+      "S": "0.013",
+      "Si": "5.0–5.6",
+      "Ni": "17.0–18.0",
+      "Cr": "17.0–18.0",
+      "Mo": "0.2",
+      "V": "",
+      "Cu": "0.35"
+    }
+  },
+  {
+    "std": "S30615",
+    "grade": "S30615",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.16–0.24",
+      "Mn": "2",
+      "P": "0.03",
+      "S": "0.03",
+      "Si": "3.2–4.0",
+      "Ni": "13.5–16.0",
+      "Cr": "17.0–19.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S30815",
+    "grade": "S30815",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.05–0.10",
+      "Mn": "0.8",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1.40–2.00",
+      "Ni": "10.0–12.0",
+      "Cr": "20.0–22.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "309S",
+    "grade": "309S",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "12.0–15.0",
+      "Cr": "22.0–24.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "309H",
+    "grade": "309H",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.10",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "12.0–15.0",
+      "Cr": "22.0–24.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "309Cb",
+    "grade": "309Cb",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "12.0–16.0",
+      "Cr": "22.0–24.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "309HCb",
+    "grade": "309HCb",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.10",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "12.0–16.0",
+      "Cr": "22.0–24.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "310S",
+    "grade": "310S",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1.5",
+      "Ni": "19.0–22.0",
+      "Cr": "24.0–26.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "310H",
+    "grade": "310H",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.10",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "19.0–22.0",
+      "Cr": "24.0–26.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "310Cb",
+    "grade": "310Cb",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1.5",
+      "Ni": "19.0–22.0",
+      "Cr": "24.0–26.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "310HCb",
+    "grade": "310HCb",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.10",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "19.0–22.0",
+      "Cr": "24.0–26.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "310MoLN",
+    "grade": "310MoLN",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.02",
+      "Mn": "2",
+      "P": "0.03",
+      "S": "0.01",
+      "Si": "0.5",
+      "Ni": "20.5–23.5",
+      "Cr": "24.0–26.0",
+      "Mo": "1.60–2.60",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S31060",
+    "grade": "S31060",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.05–0.10",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "0.5",
+      "Ni": "10.0–12.5",
+      "Cr": "22.0–24.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S31254",
+    "grade": "S31254",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.02",
+      "Mn": "1",
+      "P": "0.03",
+      "S": "0.01",
+      "Si": "0.8",
+      "Ni": "17.5–18.5",
+      "Cr": "19.5–20.5",
+      "Mo": "6.0–6.5",
+      "V": "",
+      "Cu": "0.50–1.00"
+    }
+  },
+  {
+    "std": "S31266",
+    "grade": "S31266",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2.00–4.00",
+      "P": "0.035",
+      "S": "0.02",
+      "Si": "1",
+      "Ni": "21.0–24.0",
+      "Cr": "23.0–25.0",
+      "Mo": "5.2–6.2",
+      "V": "",
+      "Cu": "1.00–2.50"
+    }
+  },
+  {
+    "std": "S31277",
+    "grade": "S31277",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.02",
+      "Mn": "3",
+      "P": "0.03",
+      "S": "0.01",
+      "Si": "0.5",
+      "Ni": "26.0–28.0",
+      "Cr": "20.5–23.0",
+      "Mo": "6.5–8.0",
+      "V": "",
+      "Cu": "0.50–1.50"
+    }
+  },
+  {
+    "std": "316",
+    "grade": "316",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "10.0–14.0",
+      "Cr": "16.0–18.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "316L",
+    "grade": "316L",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "10.0–14.0",
+      "Cr": "16.0–18.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "316H",
+    "grade": "316H",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.04–0.10",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "10.0–14.0",
+      "Cr": "16.0–18.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "316Ti",
+    "grade": "316Ti",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "10.0–14.0",
+      "Cr": "16.0–18.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "316Cb",
+    "grade": "316Cb",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "10.0–14.0",
+      "Cr": "16.0–18.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "316N",
+    "grade": "316N",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "10.0–14.0",
+      "Cr": "16.0–18.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "316LN",
+    "grade": "316LN",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "10.0–14.0",
+      "Cr": "16.0–18.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S31655",
+    "grade": "S31655",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.015",
+      "Si": "1",
+      "Ni": "8.0–9.5",
+      "Cr": "19.5–21.5",
+      "Mo": "0.50–1.50",
+      "V": "",
+      "Cu": "1"
+    }
+  },
+  {
+    "std": "317",
+    "grade": "317",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "11.0–15.0",
+      "Cr": "18.0–20.0",
+      "Mo": "3.0–4.0",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "317L",
+    "grade": "317L",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "11.0–15.0",
+      "Cr": "18.0–20.0",
+      "Mo": "3.0–4.0",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "317LM",
+    "grade": "317LM",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "13.5–17.5",
+      "Cr": "18.0–20.0",
+      "Mo": "4.0–5.0",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "317LMN",
+    "grade": "317LMN",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "13.5–17.5",
+      "Cr": "17.0–20.0",
+      "Mo": "4.0–5.0",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S31727",
+    "grade": "S31727",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.03",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "14.5–16.5",
+      "Cr": "17.5–19.0",
+      "Mo": "3.8–4.5",
+      "V": "",
+      "Cu": "2.80–4.00"
+    }
+  },
+  {
+    "std": "S31730",
+    "grade": "S31730",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.04",
+      "S": "0.01",
+      "Si": "1",
+      "Ni": "15.0–16.5",
+      "Cr": "17.0–19.0",
+      "Mo": "3.0–4.0",
+      "V": "",
+      "Cu": "4.0–5.0"
+    }
+  },
+  {
+    "std": "317LN",
+    "grade": "317LN",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "11.0–15.0",
+      "Cr": "18.0–20.0",
+      "Mo": "3.0–4.0",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S32050",
+    "grade": "S32050",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1.5",
+      "P": "0.035",
+      "S": "0.02",
+      "Si": "1",
+      "Ni": "20.0–23.0",
+      "Cr": "22.0–24.0",
+      "Mo": "6.0–6.8",
+      "V": "",
+      "Cu": "0.4"
+    }
+  },
+  {
+    "std": "S32053",
+    "grade": "S32053",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.03",
+      "S": "0.01",
+      "Si": "1",
+      "Ni": "24.0–26.0",
+      "Cr": "22.0–24.0",
+      "Mo": "5.0–6.0",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "321",
+    "grade": "321",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "9.0–12.0",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "321H",
+    "grade": "321H",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.10",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "9.0–12.0",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S32615",
+    "grade": "S32615",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.07",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "4.80–6.00",
+      "Ni": "19.0–22.0",
+      "Cr": "16.5–19.5",
+      "Mo": "0.30–1.50",
+      "V": "",
+      "Cu": "1.50–2.50"
+    }
+  },
+  {
+    "std": "S32654",
+    "grade": "S32654",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.02",
+      "Mn": "2.00–4.00",
+      "P": "0.03",
+      "S": "0.005",
+      "Si": "0.5",
+      "Ni": "21.0–23.0",
+      "Cr": "24.0–25.0",
+      "Mo": "7.0–8.0",
+      "V": "",
+      "Cu": "0.30–0.60"
+    }
+  },
+  {
+    "std": "S33228",
+    "grade": "S33228",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.08",
+      "Mn": "1",
+      "P": "0.02",
+      "S": "0.015",
+      "Si": "0.3",
+      "Ni": "31.0–33.0",
+      "Cr": "26.0–28.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "334",
+    "grade": "334",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "1",
+      "P": "0.03",
+      "S": "0.015",
+      "Si": "1",
+      "Ni": "19.0–21.0",
+      "Cr": "18.0–20.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S33425",
+    "grade": "S33425",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "1.5",
+      "P": "0.045",
+      "S": "0.02",
+      "Si": "1",
+      "Ni": "20.0–23.0",
+      "Cr": "21.0–23.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S33426",
+    "grade": "S33426",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.03",
+      "S": "0.015",
+      "Si": "0.80–1.50",
+      "Ni": "19.0–21.0",
+      "Cr": "19.5–22.0",
+      "Mo": "1.80–2.20",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S33550",
+    "grade": "S33550",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.10",
+      "Mn": "1.5",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "16.5–20.0",
+      "Cr": "25.0–28.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S34565",
+    "grade": "S34565",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "5.00–7.00",
+      "P": "0.03",
+      "S": "0.01",
+      "Si": "1",
+      "Ni": "16.0–18.0",
+      "Cr": "23.0–25.0",
+      "Mo": "4.0–5.0",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "347",
+    "grade": "347",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "9.0–13.0",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "347H",
+    "grade": "347H",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.10",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "9.0–13.0",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "347LN",
+    "grade": "347LN",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.005–0.020",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "9.0–13.0",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "348",
+    "grade": "348",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "9.0–13.0",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "348H",
+    "grade": "348H",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.10",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "9.0–13.0",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S35045",
+    "grade": "S35045",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.06–0.10",
+      "Mn": "1.5",
+      "P": "0.045",
+      "S": "0.015",
+      "Si": "1",
+      "Ni": "32.0–37.0",
+      "Cr": "25.0–29.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "0.75"
+    }
+  },
+  {
+    "std": "S35115",
+    "grade": "S35115",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.045",
+      "S": "0.015",
+      "Si": "0.50–1.50",
+      "Ni": "19.0–22.0",
+      "Cr": "23.0–25.0",
+      "Mo": "1.50–2.50",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S35125",
+    "grade": "S35125",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.1",
+      "Mn": "1.00–1.50",
+      "P": "0.045",
+      "S": "0.015",
+      "Si": "0.5",
+      "Ni": "31.0–35.0",
+      "Cr": "20.0–23.0",
+      "Mo": "2.00–3.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S35135",
+    "grade": "S35135",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "1",
+      "P": "0.045",
+      "S": "0.015",
+      "Si": "0.60–1.00",
+      "Ni": "30.0–38.0",
+      "Cr": "20.0–25.0",
+      "Mo": "4.0–4.8",
+      "V": "",
+      "Cu": "0.75"
+    }
+  },
+  {
+    "std": "S35140",
+    "grade": "S35140",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.1",
+      "Mn": "1.00–3.00",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "25.0–27.0",
+      "Cr": "20.0–22.0",
+      "Mo": "1.00–2.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S35315",
+    "grade": "S35315",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04–0.08",
+      "Mn": "2",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1.20–2.00",
+      "Ni": "34.0–36.0",
+      "Cr": "24.0–26.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "XM-15",
+    "grade": "XM-15",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "2",
+      "P": "0.03",
+      "S": "0.03",
+      "Si": "1.50–2.50",
+      "Ni": "17.5–18.5",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S38815",
+    "grade": "S38815",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Austenitic (Chromium-Nickel)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.04",
+      "S": "0.02",
+      "Si": "5.50–6.50",
+      "Ni": "15.0–17.0",
+      "Cr": "13.0–15.0",
+      "Mo": "0.75–1.50",
+      "V": "",
+      "Cu": "0.75–1.50"
+    }
+  },
+  {
+    "std": "S31200",
+    "grade": "S31200",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "5.5–6.5",
+      "Cr": "24.0–26.0",
+      "Mo": "1.20–2.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S31260",
+    "grade": "S31260",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.03",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "5.5–7.5",
+      "Cr": "24.0–26.0",
+      "Mo": "2.5–3.5",
+      "V": "",
+      "Cu": "0.20–0.80"
+    }
+  },
+  {
+    "std": "S31803",
+    "grade": "S31803",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.03",
+      "S": "0.02",
+      "Si": "1",
+      "Ni": "4.5–6.5",
+      "Cr": "21.0–23.0",
+      "Mo": "2.5–3.5",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S32001",
+    "grade": "S32001",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "4.00–6.00",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "1.00–3.00",
+      "Cr": "19.5–21.5",
+      "Mo": "0.6",
+      "V": "",
+      "Cu": "1"
+    }
+  },
+  {
+    "std": "S32003",
+    "grade": "S32003",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.03",
+      "S": "0.02",
+      "Si": "1",
+      "Ni": "3.0–4.0",
+      "Cr": "19.5–22.5",
+      "Mo": "1.50–2.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S32101",
+    "grade": "S32101",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.04",
+      "Mn": "4.00–6.00",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "1.35–1.70",
+      "Cr": "21.0–22.0",
+      "Mo": "0.10–0.80",
+      "V": "",
+      "Cu": "0.10–0.80"
+    }
+  },
+  {
+    "std": "S32202",
+    "grade": "S32202",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.04",
+      "S": "0.01",
+      "Si": "1",
+      "Ni": "1.00–2.80",
+      "Cr": "21.5–24.0",
+      "Mo": "0.45",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "2205",
+    "grade": "2205",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.03",
+      "S": "0.02",
+      "Si": "1",
+      "Ni": "4.5–6.5",
+      "Cr": "22.0–23.0",
+      "Mo": "3.0–3.5",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "2304",
+    "grade": "2304",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2.5",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "3.0–5.5",
+      "Cr": "21.5–24.5",
+      "Mo": "0.05–0.60",
+      "V": "",
+      "Cu": "0.05–0.60"
+    }
+  },
+  {
+    "std": "S32506",
+    "grade": "S32506",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.015",
+      "Si": "0.9",
+      "Ni": "5.5–7.2",
+      "Cr": "24.0–26.0",
+      "Mo": "3.0–3.5",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S32520",
+    "grade": "S32520",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1.5",
+      "P": "0.035",
+      "S": "0.02",
+      "Si": "0.8",
+      "Ni": "5.5–8.0",
+      "Cr": "24.0–26.0",
+      "Mo": "3.0–4.0",
+      "V": "",
+      "Cu": "0.50–2.00"
+    }
+  },
+  {
+    "std": "255",
+    "grade": "255",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.04",
+      "Mn": "1.5",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "4.5–6.5",
+      "Cr": "24.0–27.0",
+      "Mo": "2.9–3.9",
+      "V": "",
+      "Cu": "1.50–2.50"
+    }
+  },
+  {
+    "std": "2507",
+    "grade": "2507",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1.2",
+      "P": "0.035",
+      "S": "0.02",
+      "Si": "0.8",
+      "Ni": "6.0–8.0",
+      "Cr": "24.0–26.0",
+      "Mo": "3.0–5.0",
+      "V": "",
+      "Cu": "0.5"
+    }
+  },
+  {
+    "std": "S32760",
+    "grade": "S32760",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.03",
+      "S": "0.01",
+      "Si": "1",
+      "Ni": "6.0–8.0",
+      "Cr": "24.0–26.0",
+      "Mo": "3.0–4.0",
+      "V": "",
+      "Cu": "0.50–1.00"
+    }
+  },
+  {
+    "std": "S32808",
+    "grade": "S32808",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1.1",
+      "P": "0.03",
+      "S": "0.01",
+      "Si": "0.5",
+      "Ni": "7.0–8.2",
+      "Cr": "27.0–27.9",
+      "Mo": "0.80–1.2",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "329",
+    "grade": "329",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "2.0–5.00",
+      "Cr": "23.0–28.0",
+      "Mo": "1.00–2.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S32906",
+    "grade": "S32906",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "0.80–1.50",
+      "P": "0.03",
+      "S": "0.03",
+      "Si": "0.8",
+      "Ni": "5.8–7.5",
+      "Cr": "28.0–30.0",
+      "Mo": "1.50–2.60",
+      "V": "",
+      "Cu": "0.8"
+    }
+  },
+  {
+    "std": "S32950",
+    "grade": "S32950",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2",
+      "P": "0.035",
+      "S": "0.01",
+      "Si": "0.6",
+      "Ni": "3.5–5.2",
+      "Cr": "26.0–29.0",
+      "Mo": "1.00–2.50",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S39274",
+    "grade": "S39274",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.03",
+      "S": "0.02",
+      "Si": "0.8",
+      "Ni": "6.0–8.0",
+      "Cr": "24.0–26.0",
+      "Mo": "2.5–3.5",
+      "V": "",
+      "Cu": "0.20–0.80"
+    }
+  },
+  {
+    "std": "S81921",
+    "grade": "S81921",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2.00–4.00",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "2.0–4.0",
+      "Cr": "19.0–22.0",
+      "Mo": "1.00–2.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S82011",
+    "grade": "S82011",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2.00–3.00",
+      "P": "0.04",
+      "S": "0.02",
+      "Si": "1",
+      "Ni": "1.0–2.0",
+      "Cr": "20.5–23.5",
+      "Mo": "0.10–1.00",
+      "V": "",
+      "Cu": "0.5"
+    }
+  },
+  {
+    "std": "S82012",
+    "grade": "S82012",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.05",
+      "Mn": "2.00–4.00",
+      "P": "0.04",
+      "S": "0.005",
+      "Si": "0.8",
+      "Ni": "0.8–1.5",
+      "Cr": "19.0–20.5",
+      "Mo": "0.10–0.60",
+      "V": "",
+      "Cu": "1"
+    }
+  },
+  {
+    "std": "S82013",
+    "grade": "S82013",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.06",
+      "Mn": "2.50–3.50",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "0.9",
+      "Ni": "0.5–1.5",
+      "Cr": "19.5–22.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "0.20–1.20"
+    }
+  },
+  {
+    "std": "S82031",
+    "grade": "S82031",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.05",
+      "Mn": "2.5",
+      "P": "0.04",
+      "S": "0.005",
+      "Si": "0.8",
+      "Ni": "2.0–4.0",
+      "Cr": "19.0–22.0",
+      "Mo": "0.60–1.40",
+      "V": "",
+      "Cu": "1"
+    }
+  },
+  {
+    "std": "S82121",
+    "grade": "S82121",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.035",
+      "Mn": "1.00–2.50",
+      "P": "0.04",
+      "S": "0.01",
+      "Si": "1",
+      "Ni": "2.0–4.0",
+      "Cr": "21.0–23.0",
+      "Mo": "0.30–1.30",
+      "V": "",
+      "Cu": "0.20–1.20"
+    }
+  },
+  {
+    "std": "S82122",
+    "grade": "S82122",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2.0–4.0",
+      "P": "0.04",
+      "S": "0.02",
+      "Si": "0.75",
+      "Ni": "1.5–2.5",
+      "Cr": "20.5–21.5",
+      "Mo": "0.6",
+      "V": "",
+      "Cu": "0.50–1.50"
+    }
+  },
+  {
+    "std": "S82441",
+    "grade": "S82441",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Duplex (Austenitic-Ferritic)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "2.50–4.00",
+      "P": "0.035",
+      "S": "0.005",
+      "Si": "0.7",
+      "Ni": "3.0–4.5",
+      "Cr": "23.0–25.0",
+      "Mo": "1.00–2.00",
+      "V": "",
+      "Cu": "0.10–0.80"
+    }
+  },
+  {
+    "std": "S32803",
+    "grade": "S32803",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.015",
+      "Mn": "0.5",
+      "P": "0.02",
+      "S": "0.0035",
+      "Si": "0.55",
+      "Ni": "3.0–4.0",
+      "Cr": "28.0–29.0",
+      "Mo": "1.80–2.50",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "403",
+    "grade": "403",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.15",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "0.5",
+      "Ni": "0.6",
+      "Cr": "11.5–13.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "405",
+    "grade": "405",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.6",
+      "Cr": "11.5–14.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S40910",
+    "grade": "S40910",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.02",
+      "Si": "1",
+      "Ni": "0.5",
+      "Cr": "10.5–11.7",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S40920",
+    "grade": "S40920",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.02",
+      "Si": "1",
+      "Ni": "0.5",
+      "Cr": "10.5–11.7",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S40930",
+    "grade": "S40930",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.02",
+      "Si": "1",
+      "Ni": "0.5",
+      "Cr": "10.5–11.7",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S40945",
+    "grade": "S40945",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.5",
+      "Cr": "10.5–11.7",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S40975",
+    "grade": "S40975",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.50–1.00",
+      "Cr": "10.5–11.7",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S40977",
+    "grade": "S40977",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1.5",
+      "P": "0.04",
+      "S": "0.015",
+      "Si": "1",
+      "Ni": "0.30–1.00",
+      "Cr": "10.5–12.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "410",
+    "grade": "410",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08–0.15",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.75",
+      "Cr": "11.5–13.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S41003",
+    "grade": "S41003",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1.5",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "1.5",
+      "Cr": "10.5–12.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "410S",
+    "grade": "410S",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.6",
+      "Cr": "11.5–13.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S41045",
+    "grade": "S41045",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.5",
+      "Cr": "12.0–13.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S41050",
+    "grade": "S41050",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.04",
+      "Mn": "1",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.60–1.10",
+      "Cr": "10.5–12.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S41500",
+    "grade": "S41500",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.05",
+      "Mn": "0.50–1.00",
+      "P": "0.03",
+      "S": "0.03",
+      "Si": "0.6",
+      "Ni": "3.5–5.5",
+      "Cr": "11.5–14.0",
+      "Mo": "0.50–1.00",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "420",
+    "grade": "420",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.15 min",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.75",
+      "Cr": "12.0–14.0",
+      "Mo": "0.5",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S42035",
+    "grade": "S42035",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.08",
+      "Mn": "1",
+      "P": "0.045",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "1.0–2.5",
+      "Cr": "13.5–15.5",
+      "Mo": "0.2–1.2",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "422",
+    "grade": "422",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.20–0.25",
+      "Mn": "0.50–1.00",
+      "P": "0.025",
+      "S": "0.025",
+      "Si": "0.5",
+      "Ni": "0.50–1.00",
+      "Cr": "11.0–12.5",
+      "Mo": "0.90–1.25",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "429",
+    "grade": "429",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 6,
+    "requirements": {
+      "C": "0.12",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "",
+      "Cr": "14.0–16.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "430",
+    "grade": "430",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.12",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.75",
+      "Cr": "16.0–18.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "439",
+    "grade": "439",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.5",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S43037",
+    "grade": "S43037",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 6,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "",
+      "Cr": "16.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "431",
+    "grade": "431",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.2",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "1.25–2.50",
+      "Cr": "15.0–17.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "434",
+    "grade": "434",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.12",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "",
+      "Cr": "16.0–18.0",
+      "Mo": "0.75–1.25",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "436",
+    "grade": "436",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.12",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "",
+      "Cr": "16.0–18.0",
+      "Mo": "0.75–1.25",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S43932",
+    "grade": "S43932",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.5",
+      "Cr": "17.0–19.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S43940",
+    "grade": "S43940",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 6,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.015",
+      "Si": "1",
+      "Ni": "",
+      "Cr": "17.5–18.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S44100",
+    "grade": "S44100",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "1",
+      "Cr": "17.5–19.5",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "442",
+    "grade": "442",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.2",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.04",
+      "Si": "1",
+      "Ni": "0.6",
+      "Cr": "18.0–23.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S44330",
+    "grade": "S44330",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.025",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "",
+      "Cr": "20.0–23.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "0.30–0.80"
+    }
+  },
+  {
+    "std": "444",
+    "grade": "444",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.025",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "1",
+      "Cr": "17.5–19.5",
+      "Mo": "1.75–2.50",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S44500",
+    "grade": "S44500",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.02",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.012",
+      "Si": "1",
+      "Ni": "0.6",
+      "Cr": "19.0–21.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "0.30–0.60"
+    }
+  },
+  {
+    "std": "S44535",
+    "grade": "S44535",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "0.30–0.80",
+      "P": "0.05",
+      "S": "0.02",
+      "Si": "0.5",
+      "Ni": "",
+      "Cr": "20.0–24.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "0.5"
+    }
+  },
+  {
+    "std": "S44536",
+    "grade": "S44536",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.015",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.5",
+      "Cr": "20.0–23.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S44537",
+    "grade": "S44537",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "0.8",
+      "P": "0.05",
+      "S": "0.006",
+      "Si": "0.1–0.6",
+      "Ni": "0.5",
+      "Cr": "20.0–24.0",
+      "Mo": "",
+      "V": "",
+      "Cu": "0.5"
+    }
+  },
+  {
+    "std": "XM-33",
+    "grade": "XM-33",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.06",
+      "Mn": "0.75",
+      "P": "0.04",
+      "S": "0.02",
+      "Si": "0.75",
+      "Ni": "0.5",
+      "Cr": "25.0–27.0",
+      "Mo": "0.75–1.50",
+      "V": "",
+      "Cu": "0.2"
+    }
+  },
+  {
+    "std": "XM-27",
+    "grade": "XM-27",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.01",
+      "Mn": "0.4",
+      "P": "0.02",
+      "S": "0.02",
+      "Si": "0.4",
+      "Ni": "0.5",
+      "Cr": "25.0–27.5",
+      "Mo": "0.75–1.50",
+      "V": "",
+      "Cu": "0.2"
+    }
+  },
+  {
+    "std": "S44635",
+    "grade": "S44635",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.025",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "0.75",
+      "Ni": "3.5–4.5",
+      "Cr": "24.5–26.0",
+      "Mo": "3.5–4.5",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "446",
+    "grade": "446",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.2",
+      "Mn": "1.5",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.75",
+      "Cr": "23.0–27.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S44660",
+    "grade": "S44660",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "1.0–3.5",
+      "Cr": "25.0–28.0",
+      "Mo": "3.0–4.0",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S44700",
+    "grade": "S44700",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.01",
+      "Mn": "0.3",
+      "P": "0.025",
+      "S": "0.02",
+      "Si": "0.2",
+      "Ni": "0.15",
+      "Cr": "28.0–30.0",
+      "Mo": "3.5–4.2",
+      "V": "",
+      "Cu": "0.15"
+    }
+  },
+  {
+    "std": "S44725",
+    "grade": "S44725",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.015",
+      "Mn": "0.4",
+      "P": "0.04",
+      "S": "0.02",
+      "Si": "0.04",
+      "Ni": "0.3",
+      "Cr": "25.0–28.5",
+      "Mo": "1.5–2.5",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S44735",
+    "grade": "S44735",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 8,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "1",
+      "Cr": "28.0–30.0",
+      "Mo": "3.6–4.2",
+      "V": "",
+      "Cu": ""
+    }
+  },
+  {
+    "std": "S44800",
+    "grade": "S44800",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 9,
+    "requirements": {
+      "C": "0.01",
+      "Mn": "0.3",
+      "P": "0.025",
+      "S": "0.02",
+      "Si": "0.2",
+      "Ni": "2.00–2.50",
+      "Cr": "28.0–30.0",
+      "Mo": "3.5–4.2",
+      "V": "",
+      "Cu": "0.15"
+    }
+  },
+  {
+    "std": "S46800",
+    "grade": "S46800",
+    "shape": [
+      "Plate",
+      "Sheet"
+    ],
+    "type": "Ferritic or Martensitic (Chromium)",
+    "nb_requis": 7,
+    "requirements": {
+      "C": "0.03",
+      "Mn": "1",
+      "P": "0.04",
+      "S": "0.03",
+      "Si": "1",
+      "Ni": "0.5",
+      "Cr": "18.0–20.0",
+      "Mo": "",
+      "V": "",
+      "Cu": ""
+    }
+  }
+]

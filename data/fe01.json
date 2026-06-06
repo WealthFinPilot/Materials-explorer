@@ -65,7 +65,9 @@
         "Pb": 0.001,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS-CRM N409/1",
@@ -89,7 +91,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS N409",
@@ -113,7 +117,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 58D",
@@ -137,7 +143,9 @@
         "Pb": null,
         "Sn": 0.012,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS XCCT",
@@ -161,7 +169,9 @@
         "Pb": 0.001,
         "Sn": 0.002,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "15180 A",
@@ -185,7 +195,9 @@
         "Pb": null,
         "Sn": 0.0115,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS-CRM N 406/2",
@@ -209,7 +221,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS LF 3",
@@ -233,7 +247,9 @@
         "Pb": null,
         "Sn": 0.006,
         "B": 0.0001
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 4820",
@@ -257,7 +273,9 @@
         "Pb": 0.0008,
         "Sn": 0.008,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 4620",
@@ -281,7 +299,9 @@
         "Pb": null,
         "Sn": 0.013,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 57F",
@@ -305,7 +325,9 @@
         "Pb": 0.002,
         "Sn": 0.008,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 4932",
@@ -329,7 +351,9 @@
         "Pb": null,
         "Sn": 0.008,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 1931",
@@ -353,7 +377,9 @@
         "Pb": null,
         "Sn": 0.007,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 2931",
@@ -377,7 +403,9 @@
         "Pb": null,
         "Sn": 0.01,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 2932",
@@ -401,7 +429,9 @@
         "Pb": null,
         "Sn": 0.005,
         "B": 0.0003
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 8822",
@@ -425,7 +455,9 @@
         "Pb": 0.0013,
         "Sn": 0.011,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 9325",
@@ -449,7 +481,9 @@
         "Pb": 0.0002,
         "Sn": 0.009,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 69B",
@@ -473,7 +507,9 @@
         "Pb": null,
         "Sn": 0.006,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS-CRM N434/2",
@@ -497,7 +533,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS-CRM N408",
@@ -521,7 +559,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 55E",
@@ -545,7 +585,9 @@
         "Pb": null,
         "Sn": 0.002,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 4330V",
@@ -569,7 +611,9 @@
         "Pb": null,
         "Sn": 0.01,
         "B": 0.0001
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 3932",
@@ -593,7 +637,9 @@
         "Pb": null,
         "Sn": 0.012,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 4931",
@@ -617,7 +663,9 @@
         "Pb": null,
         "Sn": 0.009,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS N410",
@@ -641,7 +689,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "SS-CRM N114",
@@ -665,7 +715,9 @@
         "Pb": null,
         "Sn": 0.041,
         "B": 0.0008
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 60E",
@@ -689,7 +741,9 @@
         "Pb": null,
         "Sn": 0.009,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 67B",
@@ -713,7 +767,9 @@
         "Pb": 0.002,
         "Sn": 0.009,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 4942",
@@ -737,7 +793,9 @@
         "Pb": 0.002,
         "Sn": 0.014,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 4340M",
@@ -761,7 +819,9 @@
         "Pb": null,
         "Sn": 0.009,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 3931",
@@ -785,7 +845,9 @@
         "Pb": 0.0014,
         "Sn": 0.008,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS XCCV",
@@ -809,7 +871,9 @@
         "Pb": 0.0006,
         "Sn": 0.0004,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 56G",
@@ -833,7 +897,9 @@
         "Pb": null,
         "Sn": 0.029,
         "B": 0.0004
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS-CRM N407/1",
@@ -857,7 +923,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 43A",
@@ -881,7 +949,9 @@
         "Pb": null,
         "Sn": 0.011,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 42",
@@ -905,7 +975,9 @@
         "Pb": null,
         "Sn": 0.012,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS N404",
@@ -929,7 +1001,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS N403",
@@ -953,7 +1027,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "SS-CRM N113",
@@ -977,7 +1053,9 @@
         "Pb": null,
         "Sn": 0.0067,
         "B": 0.0066
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS 64C",
@@ -1001,7 +1079,9 @@
         "Pb": null,
         "Sn": 0.001,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BS A485-1",
@@ -1025,7 +1105,9 @@
         "Pb": 0.0004,
         "Sn": 0.011,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS N401",
@@ -1049,7 +1131,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS-CRM N290/2 (ECRM 253-1)",
@@ -1073,7 +1157,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS N402",
@@ -1093,6 +1179,4778 @@
         "Nb": null,
         "Ti": null,
         "V": 0.22,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      },
+      "shape": [],
+      "type": ""
+    },
+    {
+      "std": "AISI 1005",
+      "grade": "1005",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.06,
+        "Si": null,
+        "Mn": 0.35,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1006",
+      "grade": "1006",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.08,
+        "Si": null,
+        "Mn": 0.325,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1008",
+      "grade": "1008",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.1,
+        "Si": null,
+        "Mn": 0.4,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1010",
+      "grade": "1010",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.105,
+        "Si": null,
+        "Mn": 0.45,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1011",
+      "grade": "1011",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.105,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1012",
+      "grade": "1012",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.125,
+        "Si": null,
+        "Mn": 0.45,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1013",
+      "grade": "1013",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.135,
+        "Si": null,
+        "Mn": 0.65,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1015",
+      "grade": "1015",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.155,
+        "Si": null,
+        "Mn": 0.45,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1016",
+      "grade": "1016",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.155,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1017",
+      "grade": "1017",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.175,
+        "Si": null,
+        "Mn": 0.45,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1018",
+      "grade": "1018",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.175,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1019",
+      "grade": "1019",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.175,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1020",
+      "grade": "1020",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.205,
+        "Si": null,
+        "Mn": 0.45,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1021",
+      "grade": "1021",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.205,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1022",
+      "grade": "1022",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.205,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1023",
+      "grade": "1023",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.225,
+        "Si": null,
+        "Mn": 0.45,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1025",
+      "grade": "1025",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.25,
+        "Si": null,
+        "Mn": 0.45,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1026",
+      "grade": "1026",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.25,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1029",
+      "grade": "1029",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.28,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1030",
+      "grade": "1030",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.31,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1034",
+      "grade": "1034",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.35,
+        "Si": null,
+        "Mn": 0.65,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1035",
+      "grade": "1035",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.35,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1037",
+      "grade": "1037",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.35,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1038",
+      "grade": "1038",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.385,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1039",
+      "grade": "1039",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.405,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1040",
+      "grade": "1040",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.405,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1042",
+      "grade": "1042",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.435,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1043",
+      "grade": "1043",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.435,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1044",
+      "grade": "1044",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.465,
+        "Si": null,
+        "Mn": 0.45,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1045",
+      "grade": "1045",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.465,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1046",
+      "grade": "1046",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.465,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1049",
+      "grade": "1049",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.495,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1050",
+      "grade": "1050",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.515,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1053",
+      "grade": "1053",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.515,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1055",
+      "grade": "1055",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.55,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1059",
+      "grade": "1059",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.6,
+        "Si": null,
+        "Mn": 0.65,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1060",
+      "grade": "1060",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.6,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1064",
+      "grade": "1064",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.65,
+        "Si": null,
+        "Mn": 0.65,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1065",
+      "grade": "1065",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.65,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1069",
+      "grade": "1069",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.7,
+        "Si": null,
+        "Mn": 0.55,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1070",
+      "grade": "1070",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.7,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1071",
+      "grade": "1071",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.675,
+        "Si": null,
+        "Mn": 0.9,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1074",
+      "grade": "1074",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.75,
+        "Si": null,
+        "Mn": 0.65,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1075",
+      "grade": "1075",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.75,
+        "Si": null,
+        "Mn": 0.55,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1078",
+      "grade": "1078",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.785,
+        "Si": null,
+        "Mn": 0.45,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1080",
+      "grade": "1080",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.815,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1084",
+      "grade": "1084",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.865,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1086",
+      "grade": "1086",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.865,
+        "Si": null,
+        "Mn": 0.4,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1090",
+      "grade": "1090",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.915,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1095",
+      "grade": "1095",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Nonresulfurized Carbon Steels",
+      "composition": {
+        "C": 0.965,
+        "Si": null,
+        "Mn": 0.4,
+        "P": 0.04,
+        "S": 0.05,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1108",
+      "grade": "1108",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.105,
+        "Si": null,
+        "Mn": 0.7,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1109",
+      "grade": "1109",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.105,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1110",
+      "grade": "1110",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.105,
+        "Si": null,
+        "Mn": 0.45,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1116",
+      "grade": "1116",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.17,
+        "Si": null,
+        "Mn": 1.25,
+        "P": 0.04,
+        "S": 0.195,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1117",
+      "grade": "1117",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.17,
+        "Si": null,
+        "Mn": 1.15,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1118",
+      "grade": "1118",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.17,
+        "Si": null,
+        "Mn": 1.45,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1119",
+      "grade": "1119",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.17,
+        "Si": null,
+        "Mn": 1.15,
+        "P": 0.04,
+        "S": 0.285,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1132",
+      "grade": "1132",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.305,
+        "Si": null,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1137",
+      "grade": "1137",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.355,
+        "Si": null,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1139",
+      "grade": "1139",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.39,
+        "Si": null,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.165,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1140",
+      "grade": "1140",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.405,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1141",
+      "grade": "1141",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.41,
+        "Si": null,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1144",
+      "grade": "1144",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.44,
+        "Si": null,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.285,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1145",
+      "grade": "1145",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.455,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.055,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1146",
+      "grade": "1146",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.455,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1151",
+      "grade": "1151",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.515,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.04,
+        "S": 0.105,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1211",
+      "grade": "1211",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Rephosphorized and Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.13,
+        "Si": null,
+        "Mn": 0.75,
+        "P": 0.095,
+        "S": 0.125,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1212",
+      "grade": "1212",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Rephosphorized and Resulfurized Carbon Steels",
+      "composition": {
+        "C": 0.13,
+        "Si": null,
+        "Mn": 0.85,
+        "P": 0.095,
+        "S": 0.195,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1330",
+      "grade": "1330",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.305,
+        "Si": 0.25,
+        "Mn": 1.75,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1335",
+      "grade": "1335",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.355,
+        "Si": 0.25,
+        "Mn": 1.75,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1340",
+      "grade": "1340",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.405,
+        "Si": 0.25,
+        "Mn": 1.75,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 1345",
+      "grade": "1345",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.455,
+        "Si": 0.25,
+        "Mn": 1.75,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4012",
+      "grade": "4012",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.115,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.2,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4023",
+      "grade": "4023",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.225,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4024",
+      "grade": "4024",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.225,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.0425,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4027",
+      "grade": "4027",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.275,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4028",
+      "grade": "4028",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.275,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.0425,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4032",
+      "grade": "4032",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.325,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4037",
+      "grade": "4037",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.375,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4042",
+      "grade": "4042",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.425,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4047",
+      "grade": "4047",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.475,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4118",
+      "grade": "4118",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.205,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.115,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4120",
+      "grade": "4120",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.205,
+        "Si": 0.25,
+        "Mn": 1.05,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.165,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4121",
+      "grade": "4121",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.205,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.55,
+        "Mo": 0.25,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4130",
+      "grade": "4130",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.305,
+        "Si": 0.25,
+        "Mn": 0.5,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.95,
+        "Mo": 0.2,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4135",
+      "grade": "4135",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.355,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.95,
+        "Mo": 0.2,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4137",
+      "grade": "4137",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.375,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.95,
+        "Mo": 0.2,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4140",
+      "grade": "4140",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.405,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.95,
+        "Mo": 0.2,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4142",
+      "grade": "4142",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.425,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.95,
+        "Mo": 0.2,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4145",
+      "grade": "4145",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.455,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.95,
+        "Mo": 0.2,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4147",
+      "grade": "4147",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.475,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.95,
+        "Mo": 0.2,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4150",
+      "grade": "4150",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.505,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.95,
+        "Mo": 0.2,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4161",
+      "grade": "4161",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.6,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.8,
+        "Mo": 0.3,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4320",
+      "grade": "4320",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.195,
+        "Si": 0.25,
+        "Mn": 0.55,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.25,
+        "Ni": 1.825,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4340",
+      "grade": "4340",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.405,
+        "Si": 0.25,
+        "Mn": 0.7,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.8,
+        "Mo": 0.25,
+        "Ni": 1.825,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI E4340",
+      "grade": "E4340",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.405,
+        "Si": 0.25,
+        "Mn": 0.75,
+        "P": 0.025,
+        "S": 0.025,
+        "Cr": 0.8,
+        "Mo": 0.25,
+        "Ni": 1.825,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4419",
+      "grade": "4419",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.205,
+        "Si": 0.25,
+        "Mn": 0.55,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.525,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4422",
+      "grade": "4422",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.225,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.4,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4427",
+      "grade": "4427",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.265,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.4,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4615",
+      "grade": "4615",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.155,
+        "Si": 0.25,
+        "Mn": 0.55,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": 1.825,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4620",
+      "grade": "4620",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.195,
+        "Si": 0.25,
+        "Mn": 0.55,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": 1.825,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4621",
+      "grade": "4621",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.205,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": 1.825,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4626",
+      "grade": "4626",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.265,
+        "Si": 0.25,
+        "Mn": 0.55,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.2,
+        "Ni": 0.85,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4715",
+      "grade": "4715",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.155,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.55,
+        "Mo": 0.525,
+        "Ni": 0.85,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4718",
+      "grade": "4718",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.185,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.45,
+        "Mo": 0.35,
+        "Ni": 1.05,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4720",
+      "grade": "4720",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.195,
+        "Si": 0.25,
+        "Mn": 0.6,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.45,
+        "Mo": 0.2,
+        "Ni": 1.05,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4815",
+      "grade": "4815",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.155,
+        "Si": 0.25,
+        "Mn": 0.5,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": 3.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4817",
+      "grade": "4817",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.175,
+        "Si": 0.25,
+        "Mn": 0.5,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": 3.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 4820",
+      "grade": "4820",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.205,
+        "Si": 0.25,
+        "Mn": 0.6,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": 0.25,
+        "Ni": 3.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5015",
+      "grade": "5015",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.145,
+        "Si": 0.25,
+        "Mn": 0.4,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.4,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5046",
+      "grade": "5046",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.455,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.275,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5115",
+      "grade": "5115",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.155,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.8,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5120",
+      "grade": "5120",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.195,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.8,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5130",
+      "grade": "5130",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.305,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.95,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5132",
+      "grade": "5132",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.325,
+        "Si": 0.25,
+        "Mn": 0.7,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.875,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5135",
+      "grade": "5135",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.355,
+        "Si": 0.25,
+        "Mn": 0.7,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.925,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5140",
+      "grade": "5140",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.405,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.8,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5145",
+      "grade": "5145",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.455,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.8,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5147",
+      "grade": "5147",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.485,
+        "Si": 0.25,
+        "Mn": 0.825,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 1.0,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5150",
+      "grade": "5150",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.505,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.8,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5155",
+      "grade": "5155",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.55,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.8,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 5160",
+      "grade": "5160",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.6,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.8,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI E50100",
+      "grade": "E50100",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 1.04,
+        "Si": 0.25,
+        "Mn": 0.35,
+        "P": 0.025,
+        "S": 0.025,
+        "Cr": 0.5,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI E51100",
+      "grade": "E51100",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 1.04,
+        "Si": 0.25,
+        "Mn": 0.35,
+        "P": 0.025,
+        "S": 0.025,
+        "Cr": 1.025,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI E52100",
+      "grade": "E52100",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 1.04,
+        "Si": 0.25,
+        "Mn": 0.35,
+        "P": 0.025,
+        "S": 0.025,
+        "Cr": 1.45,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 52100B",
+      "grade": "52100B",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.99,
+        "Si": 0.25,
+        "Mn": 0.35,
+        "P": 0.025,
+        "S": 0.015,
+        "Cr": 1.475,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 6118",
+      "grade": "6118",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.185,
+        "Si": 0.25,
+        "Mn": 0.6,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.6,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": 0.125,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 6150",
+      "grade": "6150",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.505,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.95,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": 0.2,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8115",
+      "grade": "8115",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.155,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.4,
+        "Mo": 0.115,
+        "Ni": 0.3,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8615",
+      "grade": "8615",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.155,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8617",
+      "grade": "8617",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.175,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8620",
+      "grade": "8620",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.205,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8622",
+      "grade": "8622",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.225,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8625",
+      "grade": "8625",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.255,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8627",
+      "grade": "8627",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.275,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8630",
+      "grade": "8630",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.305,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8637",
+      "grade": "8637",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.375,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8640",
+      "grade": "8640",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.405,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8642",
+      "grade": "8642",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.425,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8645",
+      "grade": "8645",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.455,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8650",
+      "grade": "8650",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.505,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8655",
+      "grade": "8655",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.55,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8660",
+      "grade": "8660",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.6,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.2,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8720",
+      "grade": "8720",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.205,
+        "Si": 0.25,
+        "Mn": 0.8,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.25,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8740",
+      "grade": "8740",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.405,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.25,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 8822",
+      "grade": "8822",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.225,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": 0.35,
+        "Ni": 0.55,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 9254",
+      "grade": "9254",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.55,
+        "Si": 1.4,
+        "Mn": 0.7,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.7,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 9255",
+      "grade": "9255",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.55,
+        "Si": 2.0,
+        "Mn": 0.825,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 9259",
+      "grade": "9259",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.6,
+        "Si": 0.9,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.55,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 9260",
+      "grade": "9260",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.6,
+        "Si": 2.0,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": null,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI E9310",
+      "grade": "E9310",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.105,
+        "Si": 0.225,
+        "Mn": 0.55,
+        "P": 0.025,
+        "S": 0.025,
+        "Cr": 1.2,
+        "Mo": 0.115,
+        "Ni": 3.25,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 50B44",
+      "grade": "50B44",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.455,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.4,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 50B46",
+      "grade": "50B46",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.465,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.275,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 50B50",
+      "grade": "50B50",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.505,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 50B60",
+      "grade": "50B60",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.6,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.5,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 51B60",
+      "grade": "51B60",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.6,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.8,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 81B45",
+      "grade": "81B45",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.455,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.45,
+        "Mo": 0.115,
+        "Ni": 0.3,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 94B17",
+      "grade": "94B17",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.175,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.4,
+        "Mo": 0.115,
+        "Ni": 0.45,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "AISI 94B30",
+      "grade": "94B30",
+      "shape": [
+        "Bars",
+        "Rolled",
+        "Pipe"
+      ],
+      "type": "Carbon steel",
+      "composition": {
+        "C": 0.305,
+        "Si": 0.25,
+        "Mn": 0.875,
+        "P": 0.035,
+        "S": 0.04,
+        "Cr": 0.4,
+        "Mo": 0.115,
+        "Ni": 0.45,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
         "W": null,
         "Pb": null,
         "Sn": null,

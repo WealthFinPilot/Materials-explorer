@@ -65,7 +65,9 @@
         "Pb": null,
         "Sn": null,
         "B": 0.0022
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "Fe316L-18",
@@ -89,7 +91,9 @@
         "Pb": null,
         "Sn": 0.013,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "CRM N297-1",
@@ -113,7 +117,9 @@
         "Pb": null,
         "Sn": null,
         "B": 1.146
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "IARM-8H",
@@ -137,7 +143,9 @@
         "Pb": null,
         "Sn": 0.008,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS-CRM N475",
@@ -161,7 +169,9 @@
         "Pb": null,
         "Sn": 0.015,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS N461",
@@ -185,7 +195,9 @@
         "Pb": 0.0007,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS -CRM N467-1",
@@ -209,7 +221,9 @@
         "Pb": 0.004,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS N341 (SS N71)",
@@ -233,7 +247,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS/SS N464",
@@ -257,7 +273,9 @@
         "Pb": 0.0005,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS N340 (SSN70)",
@@ -281,7 +299,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS-CRM N342",
@@ -305,7 +325,9 @@
         "Pb": null,
         "Sn": null,
         "B": null
-      }
+      },
+      "shape": [],
+      "type": ""
     },
     {
       "std": "BCS N342 (SS N72)",
@@ -319,6 +341,4967 @@
         "Cr": 16.15,
         "Mo": 0.69,
         "Ni": 2.16,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      },
+      "shape": [],
+      "type": ""
+    },
+    {
+      "std": "N08020",
+      "grade": "N08020",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.035,
+        "Cr": 20.0,
+        "Mo": 2.5,
+        "Ni": 35.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 3.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "N08367",
+      "grade": "N08367",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 21.0,
+        "Mo": 6.5,
+        "Ni": 24.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.75,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "N08700",
+      "grade": "N08700",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.04,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 21.0,
+        "Mo": 4.65,
+        "Ni": 25.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "800",
+      "grade": "800",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.1,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.045,
+        "S": 0.015,
+        "Cr": 21.0,
+        "Mo": null,
+        "Ni": 32.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.75,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "800H",
+      "grade": "800H",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.075,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.045,
+        "S": 0.015,
+        "Cr": 21.0,
+        "Mo": null,
+        "Ni": 32.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.75,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "N08811",
+      "grade": "N08811",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.015,
+        "Cr": 21.0,
+        "Mo": null,
+        "Ni": 32.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.75,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "904L",
+      "grade": "904L",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.02,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.035,
+        "Cr": 21.0,
+        "Mo": 4.5,
+        "Ni": 25.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "N08925",
+      "grade": "N08925",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.02,
+        "Si": 0.5,
+        "Mn": 1.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 20.0,
+        "Mo": 6.5,
+        "Ni": 25.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.15,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "N08926",
+      "grade": "N08926",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.02,
+        "Si": 0.5,
+        "Mn": 2.0,
+        "P": 0.03,
+        "S": 0.01,
+        "Cr": 20.0,
+        "Mo": 6.5,
+        "Ni": 25.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "201",
+      "grade": "201",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.15,
+        "Si": 1.0,
+        "Mn": 6.5,
+        "P": 0.06,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": null,
+        "Ni": 4.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S20103",
+      "grade": "S20103",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 6.5,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": null,
+        "Ni": 4.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S20153",
+      "grade": "S20153",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 6.95,
+        "P": 0.045,
+        "S": 0.015,
+        "Cr": 16.75,
+        "Mo": null,
+        "Ni": 4.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S20161",
+      "grade": "S20161",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.15,
+        "Si": 3.5,
+        "Mn": 5.0,
+        "P": 0.04,
+        "S": 0.04,
+        "Cr": 16.5,
+        "Mo": null,
+        "Ni": 5.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "202",
+      "grade": "202",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.15,
+        "Si": 1.0,
+        "Mn": 8.75,
+        "P": 0.06,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 5.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S20400",
+      "grade": "S20400",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 8.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 16.0,
+        "Mo": null,
+        "Ni": 2.25,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S20431",
+      "grade": "S20431",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.12,
+        "Si": 1.0,
+        "Mn": 6.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.5,
+        "Mo": null,
+        "Ni": 3.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 2.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S20432",
+      "grade": "S20432",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 4.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.5,
+        "Mo": null,
+        "Ni": 5.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 2.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S20433",
+      "grade": "S20433",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 6.5,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.5,
+        "Mo": null,
+        "Ni": 4.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 2.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "XM-19",
+      "grade": "XM-19",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.06,
+        "Si": 0.75,
+        "Mn": 5.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 22.0,
+        "Mo": 2.25,
+        "Ni": 12.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "XM-31",
+      "grade": "XM-31",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.12,
+        "Si": 0.65,
+        "Mn": 15.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.75,
+        "Mo": null,
+        "Ni": 1.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "XM-17",
+      "grade": "XM-17",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 8.25,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.75,
+        "Mo": 2.5,
+        "Ni": 6.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "XM-18",
+      "grade": "XM-18",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 8.25,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.75,
+        "Mo": 2.5,
+        "Ni": 6.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S21640",
+      "grade": "S21640",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 5.0,
+        "P": 0.06,
+        "S": 0.03,
+        "Cr": 18.5,
+        "Mo": 1.25,
+        "Ni": 5.25,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S21800",
+      "grade": "S21800",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.1,
+        "Si": 4.0,
+        "Mn": 8.0,
+        "P": 0.06,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": null,
+        "Ni": 8.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "XM-11",
+      "grade": "XM-11",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.04,
+        "Si": 0.75,
+        "Mn": 9.0,
+        "P": 0.06,
+        "S": 0.03,
+        "Cr": 20.25,
+        "Mo": null,
+        "Ni": 6.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "XM-29",
+      "grade": "XM-29",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 13.0,
+        "P": 0.06,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 3.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "301",
+      "grade": "301",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.15,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": null,
+        "Ni": 7.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "301L",
+      "grade": "301L",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": null,
+        "Ni": 7.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "301LN",
+      "grade": "301LN",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": null,
+        "Ni": 7.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "302",
+      "grade": "302",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.15,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 9.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "304",
+      "grade": "304",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": null,
+        "Ni": 9.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "304L",
+      "grade": "304L",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": null,
+        "Ni": 10.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "304H",
+      "grade": "304H",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": null,
+        "Ni": 9.25,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S30415",
+      "grade": "S30415",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.05,
+        "Si": 1.5,
+        "Mn": 0.8,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.5,
+        "Mo": null,
+        "Ni": 9.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S30435",
+      "grade": "S30435",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": null,
+        "Ni": 8.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 2.25,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S30441",
+      "grade": "S30441",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.5,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.5,
+        "Mo": null,
+        "Ni": 9.25,
+        "Al": null,
+        "Co": null,
+        "Cu": 2.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "304N",
+      "grade": "304N",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": null,
+        "Ni": 9.25,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "XM-21",
+      "grade": "XM-21",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": null,
+        "Ni": 9.25,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "304LN",
+      "grade": "304LN",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": null,
+        "Ni": 10.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "305",
+      "grade": "305",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.12,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 11.75,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S30530",
+      "grade": "S30530",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.5,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.75,
+        "Mo": 1.125,
+        "Ni": 10.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 2.125,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S30600",
+      "grade": "S30600",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.018,
+        "Si": 4.0,
+        "Mn": 2.0,
+        "P": 0.02,
+        "S": 0.02,
+        "Cr": 17.75,
+        "Mo": 0.2,
+        "Ni": 14.75,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S30616",
+      "grade": "S30616",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.02,
+        "Si": 4.3,
+        "Mn": 1.5,
+        "P": 0.03,
+        "S": 0.015,
+        "Cr": 17.5,
+        "Mo": 0.5,
+        "Ni": 14.25,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.4,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S30601",
+      "grade": "S30601",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.015,
+        "Si": 5.3,
+        "Mn": 0.65,
+        "P": 0.03,
+        "S": 0.013,
+        "Cr": 17.5,
+        "Mo": 0.2,
+        "Ni": 17.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.35,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S30615",
+      "grade": "S30615",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.2,
+        "Si": 3.6,
+        "Mn": 2.0,
+        "P": 0.03,
+        "S": 0.03,
+        "Cr": 18.25,
+        "Mo": null,
+        "Ni": 14.75,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S30815",
+      "grade": "S30815",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.075,
+        "Si": 1.7,
+        "Mn": 0.8,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 21.0,
+        "Mo": null,
+        "Ni": 11.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "309S",
+      "grade": "309S",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 23.0,
+        "Mo": null,
+        "Ni": 13.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "309H",
+      "grade": "309H",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 23.0,
+        "Mo": null,
+        "Ni": 13.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "309Cb",
+      "grade": "309Cb",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 23.0,
+        "Mo": null,
+        "Ni": 14.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "309HCb",
+      "grade": "309HCb",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 23.0,
+        "Mo": null,
+        "Ni": 14.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "310S",
+      "grade": "310S",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.5,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 25.0,
+        "Mo": null,
+        "Ni": 20.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "310H",
+      "grade": "310H",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 25.0,
+        "Mo": null,
+        "Ni": 20.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "310Cb",
+      "grade": "310Cb",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.5,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 25.0,
+        "Mo": null,
+        "Ni": 20.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "310HCb",
+      "grade": "310HCb",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 25.0,
+        "Mo": null,
+        "Ni": 20.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "310MoLN",
+      "grade": "310MoLN",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.02,
+        "Si": 0.5,
+        "Mn": 2.0,
+        "P": 0.03,
+        "S": 0.01,
+        "Cr": 25.0,
+        "Mo": 2.1,
+        "Ni": 22.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S31060",
+      "grade": "S31060",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.075,
+        "Si": 0.5,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 23.0,
+        "Mo": null,
+        "Ni": 11.25,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S31254",
+      "grade": "S31254",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.02,
+        "Si": 0.8,
+        "Mn": 1.0,
+        "P": 0.03,
+        "S": 0.01,
+        "Cr": 20.0,
+        "Mo": 6.25,
+        "Ni": 18.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.75,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S31266",
+      "grade": "S31266",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 3.0,
+        "P": 0.035,
+        "S": 0.02,
+        "Cr": 24.0,
+        "Mo": 5.7,
+        "Ni": 22.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.75,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S31277",
+      "grade": "S31277",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.02,
+        "Si": 0.5,
+        "Mn": 3.0,
+        "P": 0.03,
+        "S": 0.01,
+        "Cr": 21.75,
+        "Mo": 7.25,
+        "Ni": 27.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "316",
+      "grade": "316",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": 2.5,
+        "Ni": 12.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "316L",
+      "grade": "316L",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": 2.5,
+        "Ni": 12.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "316H",
+      "grade": "316H",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": 2.5,
+        "Ni": 12.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "316Ti",
+      "grade": "316Ti",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": 2.5,
+        "Ni": 12.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "316Cb",
+      "grade": "316Cb",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": 2.5,
+        "Ni": 12.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "316N",
+      "grade": "316N",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": 2.5,
+        "Ni": 12.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "316LN",
+      "grade": "316LN",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": 2.5,
+        "Ni": 12.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S31655",
+      "grade": "S31655",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.015,
+        "Cr": 20.5,
+        "Mo": 1.0,
+        "Ni": 8.75,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "317",
+      "grade": "317",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": 3.5,
+        "Ni": 13.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "317L",
+      "grade": "317L",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": 3.5,
+        "Ni": 13.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "317LM",
+      "grade": "317LM",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": 4.5,
+        "Ni": 15.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "317LMN",
+      "grade": "317LMN",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.5,
+        "Mo": 4.5,
+        "Ni": 15.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S31727",
+      "grade": "S31727",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.03,
+        "S": 0.03,
+        "Cr": 18.25,
+        "Mo": 4.15,
+        "Ni": 15.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 3.4,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S31730",
+      "grade": "S31730",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.04,
+        "S": 0.01,
+        "Cr": 18.0,
+        "Mo": 3.5,
+        "Ni": 15.75,
+        "Al": null,
+        "Co": null,
+        "Cu": 4.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "317LN",
+      "grade": "317LN",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": 3.5,
+        "Ni": 13.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32050",
+      "grade": "S32050",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.035,
+        "S": 0.02,
+        "Cr": 23.0,
+        "Mo": 6.4,
+        "Ni": 21.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.4,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32053",
+      "grade": "S32053",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.03,
+        "S": 0.01,
+        "Cr": 23.0,
+        "Mo": 5.5,
+        "Ni": 25.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "321",
+      "grade": "321",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 10.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "321H",
+      "grade": "321H",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 10.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32615",
+      "grade": "S32615",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 5.4,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": 0.9,
+        "Ni": 20.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 2.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32654",
+      "grade": "S32654",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.02,
+        "Si": 0.5,
+        "Mn": 3.0,
+        "P": 0.03,
+        "S": 0.005,
+        "Cr": 24.5,
+        "Mo": 7.5,
+        "Ni": 22.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.45,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S33228",
+      "grade": "S33228",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.06,
+        "Si": 0.3,
+        "Mn": 1.0,
+        "P": 0.02,
+        "S": 0.015,
+        "Cr": 27.0,
+        "Mo": null,
+        "Ni": 32.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "334",
+      "grade": "334",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.03,
+        "S": 0.015,
+        "Cr": 19.0,
+        "Mo": null,
+        "Ni": 20.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S33425",
+      "grade": "S33425",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.045,
+        "S": 0.02,
+        "Cr": 22.0,
+        "Mo": 2.5,
+        "Ni": 21.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S33426",
+      "grade": "S33426",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.15,
+        "Mn": 1.0,
+        "P": 0.03,
+        "S": 0.015,
+        "Cr": 20.75,
+        "Mo": 2.0,
+        "Ni": 20.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S33550",
+      "grade": "S33550",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 26.5,
+        "Mo": null,
+        "Ni": 18.25,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S34565",
+      "grade": "S34565",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 6.0,
+        "P": 0.03,
+        "S": 0.01,
+        "Cr": 24.0,
+        "Mo": 4.5,
+        "Ni": 17.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "347",
+      "grade": "347",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 11.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "347H",
+      "grade": "347H",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 11.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "347LN",
+      "grade": "347LN",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.0125,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 11.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "348",
+      "grade": "348",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 11.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "348H",
+      "grade": "348H",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.07,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 11.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S35045",
+      "grade": "S35045",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.045,
+        "S": 0.015,
+        "Cr": 27.0,
+        "Mo": null,
+        "Ni": 34.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.75,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S35115",
+      "grade": "S35115",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.045,
+        "S": 0.015,
+        "Cr": 24.0,
+        "Mo": 2.0,
+        "Ni": 20.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S35125",
+      "grade": "S35125",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.1,
+        "Si": 0.5,
+        "Mn": 1.25,
+        "P": 0.045,
+        "S": 0.015,
+        "Cr": 21.5,
+        "Mo": 2.5,
+        "Ni": 33.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S35135",
+      "grade": "S35135",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.8,
+        "Mn": 1.0,
+        "P": 0.045,
+        "S": 0.015,
+        "Cr": 22.5,
+        "Mo": 4.4,
+        "Ni": 34.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.75,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S35140",
+      "grade": "S35140",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.1,
+        "Si": 0.75,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 21.0,
+        "Mo": 1.5,
+        "Ni": 26.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S35315",
+      "grade": "S35315",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.06,
+        "Si": 1.6,
+        "Mn": 2.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 25.0,
+        "Mo": null,
+        "Ni": 35.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "XM-15",
+      "grade": "XM-15",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.08,
+        "Si": 2.0,
+        "Mn": 2.0,
+        "P": 0.03,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 18.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S38815",
+      "grade": "S38815",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Austenitic (Chromium-Nickel)",
+      "composition": {
+        "C": 0.03,
+        "Si": 6.0,
+        "Mn": 2.0,
+        "P": 0.04,
+        "S": 0.02,
+        "Cr": 14.0,
+        "Mo": 1.125,
+        "Ni": 16.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.125,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S31200",
+      "grade": "S31200",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 25.0,
+        "Mo": 1.6,
+        "Ni": 6.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S31260",
+      "grade": "S31260",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 1.0,
+        "P": 0.03,
+        "S": 0.03,
+        "Cr": 25.0,
+        "Mo": 3.0,
+        "Ni": 6.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S31803",
+      "grade": "S31803",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.03,
+        "S": 0.02,
+        "Cr": 22.0,
+        "Mo": 3.0,
+        "Ni": 5.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32001",
+      "grade": "S32001",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 5.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 20.5,
+        "Mo": 0.6,
+        "Ni": 2.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32003",
+      "grade": "S32003",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.03,
+        "S": 0.02,
+        "Cr": 21.0,
+        "Mo": 1.75,
+        "Ni": 3.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32101",
+      "grade": "S32101",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.04,
+        "Si": 1.0,
+        "Mn": 5.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 21.5,
+        "Mo": 0.45,
+        "Ni": 1.525,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.45,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32202",
+      "grade": "S32202",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.04,
+        "S": 0.01,
+        "Cr": 22.75,
+        "Mo": 0.45,
+        "Ni": 1.9,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "2205",
+      "grade": "2205",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.0,
+        "P": 0.03,
+        "S": 0.02,
+        "Cr": 22.5,
+        "Mo": 3.25,
+        "Ni": 5.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "2304",
+      "grade": "2304",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.5,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 23.0,
+        "Mo": 0.325,
+        "Ni": 4.25,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.325,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32506",
+      "grade": "S32506",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.9,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.015,
+        "Cr": 25.0,
+        "Mo": 3.25,
+        "Ni": 6.35,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32520",
+      "grade": "S32520",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.8,
+        "Mn": 1.5,
+        "P": 0.035,
+        "S": 0.02,
+        "Cr": 25.0,
+        "Mo": 3.5,
+        "Ni": 6.75,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.25,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "255",
+      "grade": "255",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.04,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 25.5,
+        "Mo": 3.4,
+        "Ni": 5.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 2.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "2507",
+      "grade": "2507",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.8,
+        "Mn": 1.2,
+        "P": 0.035,
+        "S": 0.02,
+        "Cr": 25.0,
+        "Mo": 4.0,
+        "Ni": 7.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32760",
+      "grade": "S32760",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.03,
+        "S": 0.01,
+        "Cr": 25.0,
+        "Mo": 3.5,
+        "Ni": 7.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.75,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32808",
+      "grade": "S32808",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.5,
+        "Mn": 1.1,
+        "P": 0.03,
+        "S": 0.01,
+        "Cr": 27.45,
+        "Mo": 1.0,
+        "Ni": 7.6,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "329",
+      "grade": "329",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.08,
+        "Si": 0.75,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 25.5,
+        "Mo": 1.5,
+        "Ni": 3.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32906",
+      "grade": "S32906",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.8,
+        "Mn": 1.15,
+        "P": 0.03,
+        "S": 0.03,
+        "Cr": 29.0,
+        "Mo": 2.05,
+        "Ni": 6.65,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.8,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32950",
+      "grade": "S32950",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.6,
+        "Mn": 2.0,
+        "P": 0.035,
+        "S": 0.01,
+        "Cr": 27.5,
+        "Mo": 1.75,
+        "Ni": 4.35,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S39274",
+      "grade": "S39274",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.8,
+        "Mn": 1.0,
+        "P": 0.03,
+        "S": 0.02,
+        "Cr": 25.0,
+        "Mo": 3.0,
+        "Ni": 7.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S81921",
+      "grade": "S81921",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 3.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 20.5,
+        "Mo": 1.5,
+        "Ni": 3.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S82011",
+      "grade": "S82011",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 2.5,
+        "P": 0.04,
+        "S": 0.02,
+        "Cr": 22.0,
+        "Mo": 0.55,
+        "Ni": 1.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S82012",
+      "grade": "S82012",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.05,
+        "Si": 0.8,
+        "Mn": 3.0,
+        "P": 0.04,
+        "S": 0.005,
+        "Cr": 19.75,
+        "Mo": 0.35,
+        "Ni": 1.15,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S82013",
+      "grade": "S82013",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.06,
+        "Si": 0.9,
+        "Mn": 3.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 20.75,
+        "Mo": null,
+        "Ni": 1.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.7,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S82031",
+      "grade": "S82031",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.05,
+        "Si": 0.8,
+        "Mn": 2.5,
+        "P": 0.04,
+        "S": 0.005,
+        "Cr": 20.5,
+        "Mo": 1.0,
+        "Ni": 3.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S82121",
+      "grade": "S82121",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.035,
+        "Si": 1.0,
+        "Mn": 1.75,
+        "P": 0.04,
+        "S": 0.01,
+        "Cr": 22.0,
+        "Mo": 0.8,
+        "Ni": 3.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.7,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S82122",
+      "grade": "S82122",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.75,
+        "Mn": 3.0,
+        "P": 0.04,
+        "S": 0.02,
+        "Cr": 21.0,
+        "Mo": 0.6,
+        "Ni": 2.0,
+        "Al": null,
+        "Co": null,
+        "Cu": 1.0,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S82441",
+      "grade": "S82441",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Duplex (Austenitic-Ferritic)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.7,
+        "Mn": 3.25,
+        "P": 0.035,
+        "S": 0.005,
+        "Cr": 24.0,
+        "Mo": 1.5,
+        "Ni": 3.75,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.45,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S32803",
+      "grade": "S32803",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.015,
+        "Si": 0.55,
+        "Mn": 0.5,
+        "P": 0.02,
+        "S": 0.0035,
+        "Cr": 28.5,
+        "Mo": 2.15,
+        "Ni": 3.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "403",
+      "grade": "403",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.15,
+        "Si": 0.5,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 12.25,
+        "Mo": null,
+        "Ni": 0.6,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "405",
+      "grade": "405",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 13.0,
+        "Mo": null,
+        "Ni": 0.6,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S40910",
+      "grade": "S40910",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.02,
+        "Cr": 11.1,
+        "Mo": null,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S40920",
+      "grade": "S40920",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.02,
+        "Cr": 11.1,
+        "Mo": null,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S40930",
+      "grade": "S40930",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.02,
+        "Cr": 11.1,
+        "Mo": null,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S40945",
+      "grade": "S40945",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 11.1,
+        "Mo": null,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S40975",
+      "grade": "S40975",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 11.1,
+        "Mo": null,
+        "Ni": 0.75,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S40977",
+      "grade": "S40977",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.015,
+        "Cr": 11.5,
+        "Mo": null,
+        "Ni": 0.65,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "410",
+      "grade": "410",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.115,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 12.5,
+        "Mo": null,
+        "Ni": 0.75,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S41003",
+      "grade": "S41003",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 11.5,
+        "Mo": null,
+        "Ni": 1.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "410S",
+      "grade": "410S",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 12.5,
+        "Mo": null,
+        "Ni": 0.6,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S41045",
+      "grade": "S41045",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 12.5,
+        "Mo": null,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S41050",
+      "grade": "S41050",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.04,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 11.5,
+        "Mo": null,
+        "Ni": 0.85,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S41500",
+      "grade": "S41500",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.05,
+        "Si": 0.6,
+        "Mn": 0.75,
+        "P": 0.03,
+        "S": 0.03,
+        "Cr": 12.75,
+        "Mo": 0.75,
+        "Ni": 4.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "420",
+      "grade": "420",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.15,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 13.0,
+        "Mo": 0.5,
+        "Ni": 0.75,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S42035",
+      "grade": "S42035",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.08,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.045,
+        "S": 0.03,
+        "Cr": 14.5,
+        "Mo": 0.7,
+        "Ni": 1.75,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "422",
+      "grade": "422",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.225,
+        "Si": 0.5,
+        "Mn": 0.75,
+        "P": 0.025,
+        "S": 0.025,
+        "Cr": 11.75,
+        "Mo": 1.075,
+        "Ni": 0.75,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "429",
+      "grade": "429",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.12,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 15.0,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "430",
+      "grade": "430",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.12,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": null,
+        "Ni": 0.75,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "439",
+      "grade": "439",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S43037",
+      "grade": "S43037",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 17.5,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "431",
+      "grade": "431",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.2,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 16.0,
+        "Mo": null,
+        "Ni": 1.875,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "434",
+      "grade": "434",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.12,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": 1.0,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "436",
+      "grade": "436",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.12,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 17.0,
+        "Mo": 1.0,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S43932",
+      "grade": "S43932",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S43940",
+      "grade": "S43940",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.015,
+        "Cr": 18.0,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44100",
+      "grade": "S44100",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 18.5,
+        "Mo": null,
+        "Ni": 1.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "442",
+      "grade": "442",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.2,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.04,
+        "Cr": 20.5,
+        "Mo": null,
+        "Ni": 0.6,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44330",
+      "grade": "S44330",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.025,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 21.5,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.55,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "444",
+      "grade": "444",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.025,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 18.5,
+        "Mo": 2.125,
+        "Ni": 1.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44500",
+      "grade": "S44500",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.02,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.012,
+        "Cr": 20.0,
+        "Mo": null,
+        "Ni": 0.6,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.45,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44535",
+      "grade": "S44535",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.5,
+        "Mn": 0.55,
+        "P": 0.05,
+        "S": 0.02,
+        "Cr": 22.0,
+        "Mo": null,
+        "Ni": null,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44536",
+      "grade": "S44536",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.015,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 21.5,
+        "Mo": null,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44537",
+      "grade": "S44537",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 0.35,
+        "Mn": 0.8,
+        "P": 0.05,
+        "S": 0.006,
+        "Cr": 22.0,
+        "Mo": null,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.5,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "XM-33",
+      "grade": "XM-33",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.06,
+        "Si": 0.75,
+        "Mn": 0.75,
+        "P": 0.04,
+        "S": 0.02,
+        "Cr": 26.0,
+        "Mo": 1.125,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.2,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "XM-27",
+      "grade": "XM-27",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.01,
+        "Si": 0.4,
+        "Mn": 0.4,
+        "P": 0.02,
+        "S": 0.02,
+        "Cr": 26.25,
+        "Mo": 1.125,
+        "Ni": 0.5,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.2,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44635",
+      "grade": "S44635",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.025,
+        "Si": 0.75,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 25.25,
+        "Mo": 4.0,
+        "Ni": 4.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "446",
+      "grade": "446",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.2,
+        "Si": 1.0,
+        "Mn": 1.5,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 25.0,
+        "Mo": null,
+        "Ni": 0.75,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44660",
+      "grade": "S44660",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 26.5,
+        "Mo": 3.5,
+        "Ni": 2.25,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44700",
+      "grade": "S44700",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.01,
+        "Si": 0.2,
+        "Mn": 0.3,
+        "P": 0.025,
+        "S": 0.02,
+        "Cr": 29.0,
+        "Mo": 3.85,
+        "Ni": 0.15,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.15,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44725",
+      "grade": "S44725",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.015,
+        "Si": 0.04,
+        "Mn": 0.4,
+        "P": 0.04,
+        "S": 0.02,
+        "Cr": 26.75,
+        "Mo": 2.0,
+        "Ni": 0.3,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44735",
+      "grade": "S44735",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 29.0,
+        "Mo": 3.9,
+        "Ni": 1.0,
+        "Al": null,
+        "Co": null,
+        "Cu": null,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S44800",
+      "grade": "S44800",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.01,
+        "Si": 0.2,
+        "Mn": 0.3,
+        "P": 0.025,
+        "S": 0.02,
+        "Cr": 29.0,
+        "Mo": 3.85,
+        "Ni": 2.25,
+        "Al": null,
+        "Co": null,
+        "Cu": 0.15,
+        "Nb": null,
+        "Ti": null,
+        "V": null,
+        "W": null,
+        "Pb": null,
+        "Sn": null,
+        "B": null
+      }
+    },
+    {
+      "std": "S46800",
+      "grade": "S46800",
+      "shape": [
+        "Plate",
+        "Sheet"
+      ],
+      "type": "Ferritic or Martensitic (Chromium)",
+      "composition": {
+        "C": 0.03,
+        "Si": 1.0,
+        "Mn": 1.0,
+        "P": 0.04,
+        "S": 0.03,
+        "Cr": 19.0,
+        "Mo": null,
+        "Ni": 0.5,
         "Al": null,
         "Co": null,
         "Cu": null,
