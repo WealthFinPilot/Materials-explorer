@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>OES Alloy Identifier</title>
-  <meta name="description" content="Identify the probable grade of a metallic alloy from raw OES spectrometry readings via weighted chemical similarity." />
+  <title>Materials Identifier</title>
+  <meta name="description" content="Identify the probable grade of a metallic alloy from raw OES spectrometry readings, look up a grade's specification, or check a sample's compliance — by weighted chemical similarity." />
   <meta name="color-scheme" content="light" />
   <link rel="stylesheet" href="src/style.css" />
 </head>
@@ -21,49 +21,111 @@
     </div>
   </header>
 
+  <nav class="tabs" aria-label="Tools">
+    <div class="wrap tabs__inner" role="tablist">
+      <button role="tab" id="tab-btn-identify" aria-controls="tab-identify" aria-selected="true" class="tab">Identify a sample</button>
+      <button role="tab" id="tab-btn-reverse" aria-controls="tab-reverse" aria-selected="false" tabindex="-1" class="tab">Reverse — grade &amp; compliance</button>
+    </div>
+  </nav>
+
   <main class="wrap">
-    <section class="panel" aria-labelledby="input-h">
-      <div class="panel__head">
-        <div class="panel__head-inner">
-          <div>
-            <h2 id="input-h">Measured composition</h2>
-            <p class="hint">Enter the values returned by the spectrometer, in % weight. Leave a field blank to exclude that element from the match.</p>
+    <!-- ============ TAB 1 — IDENTIFY (V1) ============ -->
+    <div role="tabpanel" id="tab-identify" aria-labelledby="tab-btn-identify" class="tabpanel">
+      <section class="panel" aria-labelledby="input-h">
+        <div class="panel__head">
+          <div class="panel__head-inner">
+            <div>
+              <h2 id="input-h">Measured composition</h2>
+              <p class="hint">Enter the values returned by the spectrometer, in % weight. Leave a field blank to exclude that element from the match.</p>
+            </div>
+            <img src="assets/Atome.png" alt="" aria-hidden="true" class="panel__deco" />
           </div>
-          <img src="assets/Atome.png" alt="" aria-hidden="true" class="panel__deco" />
         </div>
-      </div>
 
-      <div class="silo-select" role="radiogroup" aria-label="Reference database">
+        <div class="silo-select" role="radiogroup" aria-label="Reference database">
+          <span class="silo-select__label">Database</span>
+          <div class="seg" id="silo-seg"></div>
+          <span class="silo-meta" id="silo-meta"></span>
+        </div>
+
+        <form id="oes-form">
+          <div class="grid" id="element-grid"></div>
+          <div class="actions">
+            <button type="submit" class="btn btn--primary" id="btn-analyze">Match composition</button>
+            <button type="button" class="btn" id="btn-clear">Clear values</button>
+            <button type="button" class="btn btn--ghost" id="btn-example">Load example</button>
+          </div>
+        </form>
+      </section>
+
+      <section class="panel" aria-labelledby="results-h" id="results-panel" hidden>
+        <div class="panel__head">
+          <h2 id="results-h">Probable grades</h2>
+          <p class="hint" id="results-hint"></p>
+        </div>
+        <div id="warning" class="warning" role="status" hidden></div>
+        <div class="results" id="results" aria-live="polite"></div>
+      </section>
+    </div>
+
+    <!-- ============ TAB 2 — REVERSE (V2) ============ -->
+    <div role="tabpanel" id="tab-reverse" aria-labelledby="tab-btn-reverse" class="tabpanel" hidden>
+      <div class="silo-select silo-select--standalone" role="radiogroup" aria-label="Reference database">
         <span class="silo-select__label">Database</span>
-        <div class="seg" id="silo-seg"></div>
-        <span class="silo-meta" id="silo-meta"></span>
+        <div class="seg" id="rev-silo-seg"></div>
+        <span class="silo-meta" id="rev-silo-meta"></span>
       </div>
 
-      <form id="oes-form">
-        <div class="grid" id="element-grid"></div>
-        <div class="actions">
-          <button type="submit" class="btn btn--primary" id="btn-analyze">Match composition</button>
-          <button type="button" class="btn" id="btn-clear">Clear values</button>
-          <button type="button" class="btn btn--ghost" id="btn-example">Load example</button>
+      <!-- Section A — grade lookup -->
+      <section class="panel" aria-labelledby="lookup-h">
+        <div class="panel__head">
+          <h2 id="lookup-h">Grade lookup</h2>
+          <p class="hint">Pick a standardised grade to see its specified composition limits and nominal chemistry.</p>
         </div>
-      </form>
-    </section>
+        <form id="lookup-form" class="lookup">
+          <label class="lookup__field">
+            <span class="lookup__label">Grade</span>
+            <input id="lookup-input" list="grade-list" type="text" autocomplete="off"
+                   spellcheck="false" placeholder="e.g. 1045" aria-label="Grade designation" />
+            <datalist id="grade-list"></datalist>
+          </label>
+        </form>
+        <div id="lookup-result" class="lookup__result" aria-live="polite"></div>
+      </section>
 
-    <section class="panel" aria-labelledby="results-h" id="results-panel" hidden>
-      <div class="panel__head">
-        <h2 id="results-h">Probable grades</h2>
-        <p class="hint" id="results-hint"></p>
-      </div>
-      <div id="warning" class="warning" role="status" hidden></div>
-      <div class="results" id="results" aria-live="polite"></div>
-    </section>
+      <!-- Section B — compliance check -->
+      <section class="panel" aria-labelledby="comply-h">
+        <div class="panel__head">
+          <h2 id="comply-h">Compliance check</h2>
+          <p class="hint">Enter a measured composition in % weight. We test it against every grade's specification and rank the closest matches. <strong>PASS</strong> means every requirement is met.</p>
+        </div>
+        <form id="comply-form">
+          <div class="grid" id="comply-grid"></div>
+          <div class="actions">
+            <button type="submit" class="btn btn--primary" id="btn-comply">Check compliance</button>
+            <button type="button" class="btn" id="btn-comply-clear">Clear values</button>
+            <button type="button" class="btn btn--ghost" id="btn-comply-example">Load example</button>
+          </div>
+        </form>
+      </section>
+
+      <section class="panel" aria-labelledby="comply-results-h" id="comply-results-panel" hidden>
+        <div class="panel__head">
+          <h2 id="comply-results-h">Compliance results</h2>
+          <p class="hint" id="comply-results-hint"></p>
+        </div>
+        <div class="results" id="comply-results" aria-live="polite"></div>
+      </section>
+    </div>
   </main>
 
   <footer class="wrap foot">
-    <p>Runs entirely in your browser. No reading leaves this page. Method: weighted ratio similarity over the entered elements.</p>
+    <p>Runs entirely in your browser. No reading leaves this page. Method: weighted ratio similarity (identify) and weighted boolean conformity (compliance).</p>
     <p>Built by <a href="https://www.linkedin.com/in/sébastien-oger-49009382" class="foot__link">Sébastien Oger</a></p>
   </footer>
 
   <script type="module" src="src/main.js"></script>
+  <script type="module" src="src/reverse.js"></script>
+  <script type="module" src="src/tabs.js"></script>
 </body>
 </html>

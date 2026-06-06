@@ -26,6 +26,14 @@
   --err-weak: oklch(0.96 0.04 25);
   --err-border: oklch(0.80 0.12 25);
 
+  /* compliance verdict — sober green / sober red, same L-band as --accent */
+  --pass: oklch(0.50 0.12 150);
+  --pass-weak: oklch(0.95 0.052 150);
+  --pass-border: oklch(0.80 0.08 150);
+  --fail: oklch(0.52 0.15 27);
+  --fail-weak: oklch(0.962 0.035 27);
+  --fail-border: oklch(0.82 0.085 27);
+
   /* type */
   --sans: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --mono: ui-monospace, "Cascadia Mono", Consolas, "SF Mono", "Roboto Mono", monospace;
@@ -279,4 +287,106 @@ form { padding: var(--s5); }
   .result { grid-template-columns: 28px 1fr; }
   .result__score { grid-column: 2; align-items: flex-start; }
   .bar { width: 100%; max-width: 200px; }
+}
+
+/* ===================== V2 — Reverse tab ===================== */
+
+/* ---------- tabs ---------- */
+.tabs { border-bottom: 1px solid var(--border); background: var(--surface); }
+.tabs__inner { display: flex; gap: var(--s5); }
+.tab {
+  font: inherit; font-size: 13px; font-weight: 600;
+  color: var(--ink-faint); background: transparent;
+  border: 0; border-bottom: 2px solid transparent;
+  padding: var(--s4) 2px; margin-bottom: -1px; cursor: pointer;
+  transition: color 160ms ease-out, border-color 160ms ease-out;
+}
+.tab:hover { color: var(--ink); }
+.tab[aria-selected="true"] { color: var(--accent); border-bottom-color: var(--accent); }
+.tab:focus-visible { outline: none; box-shadow: var(--ring); border-radius: var(--radius-sm); }
+
+.tabpanel { display: grid; gap: var(--s5); }
+.tabpanel[hidden] { display: none; }
+
+/* standalone database selector (Reverse tab, outside a panel head) */
+.silo-select--standalone {
+  margin-top: 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+/* ---------- Section A — grade lookup ---------- */
+.lookup { padding: var(--s5); }
+.lookup__field { display: flex; flex-direction: column; gap: var(--s2); max-width: 320px; }
+.lookup__label {
+  font-size: 11px; letter-spacing: 0.07em; text-transform: uppercase;
+  color: var(--ink-faint); font-weight: 600;
+}
+.lookup input {
+  font-family: var(--mono); font-size: 14px; color: var(--ink); background: var(--bg);
+  border: 1px solid var(--border-strong); border-radius: var(--radius-sm);
+  padding: 8px 10px; width: 100%;
+  transition: border-color 150ms ease-out, box-shadow 150ms ease-out;
+}
+.lookup input:hover { border-color: var(--ink-faint); }
+.lookup input:focus { outline: none; border-color: var(--accent); box-shadow: var(--ring); }
+
+.lookup__result { padding: 0 var(--s5) var(--s5); }
+.lookup__card { border: 1px solid var(--border); border-radius: var(--radius-sm); overflow: clip; }
+.lookup__head {
+  display: flex; align-items: flex-start; justify-content: space-between; gap: var(--s4);
+  padding: var(--s4); background: var(--surface); border-bottom: 1px solid var(--border);
+}
+.lookup__std { font-family: var(--mono); font-size: 15px; font-weight: 700; color: var(--ink); }
+.lookup__type { margin-top: 2px; font-size: 12px; color: var(--ink-muted); }
+.lookup__count {
+  flex-shrink: 0; font-family: var(--mono); font-size: 11px; color: var(--accent-hover);
+  background: var(--accent-weak); padding: 3px 8px; border-radius: 3px; white-space: nowrap;
+}
+.chips { display: flex; flex-wrap: wrap; gap: var(--s2); padding: var(--s3) var(--s4) 0; }
+.chip {
+  font-size: 11px; color: var(--ink-muted); background: var(--surface-sunken);
+  border: 1px solid var(--border); border-radius: 3px; padding: 2px 8px;
+}
+
+.spec { width: 100%; border-collapse: collapse; font-size: 13px; }
+.spec th {
+  text-align: left; font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--ink-faint); font-weight: 600; padding: var(--s3) var(--s4);
+  border-bottom: 1px solid var(--border);
+}
+.spec td { padding: var(--s2) var(--s4); border-bottom: 1px solid var(--surface-sunken); }
+.spec tr:last-child td { border-bottom: 0; }
+.spec__el { font-family: var(--mono); font-weight: 600; color: var(--ink); }
+.spec__lim, .spec__nom { font-family: var(--mono); color: var(--ink-muted); font-variant-numeric: tabular-nums; }
+.spec th:nth-child(n+2), .spec td:nth-child(n+2) { text-align: right; }
+
+/* ---------- Section B — compliance verdict ---------- */
+.verdict {
+  display: inline-block; font-family: var(--mono); font-size: 10px; font-weight: 700;
+  letter-spacing: 0.06em; padding: 2px 6px; border-radius: 3px; vertical-align: 1px;
+}
+.verdict--pass { color: var(--pass); background: var(--pass-weak); border: 1px solid var(--pass-border); }
+.verdict--fail { color: var(--fail); background: var(--fail-weak); border: 1px solid var(--fail-border); }
+
+.result--pass {
+  border-color: var(--pass-border);
+  background: color-mix(in oklch, var(--pass-weak) 88%, var(--bg));
+}
+.result--pass .result__rank { color: var(--pass); font-weight: 700; }
+
+.result__meta { margin-top: var(--s2); font-size: 11px; color: var(--ink-faint); font-family: var(--mono); }
+
+.dchips { display: flex; flex-wrap: wrap; gap: var(--s1); margin-top: var(--s2); }
+.dchip {
+  font-family: var(--mono); font-size: 11px; font-weight: 600;
+  padding: 1px 6px; border-radius: 3px; border: 1px solid transparent; cursor: default;
+}
+.dchip--ok { color: var(--pass); background: var(--pass-weak); border-color: var(--pass-border); }
+.dchip--bad { color: var(--fail); background: var(--fail-weak); border-color: var(--fail-border); }
+.dchip--na { color: var(--ink-faint); background: var(--surface-sunken); border-color: var(--border); }
+
+@media (max-width: 560px) {
+  .tabs__inner { gap: var(--s4); }
+  .lookup__head { flex-direction: column; gap: var(--s2); }
 }
