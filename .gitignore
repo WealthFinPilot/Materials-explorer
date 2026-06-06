@@ -1,0 +1,15 @@
+# Source workbook & exported VBA — not published (see CLAUDE.md)
+OES-DataBase_R01.xlsm
+*.xlsm
+vba-code/
+Choix des matériaux.pdf
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (tests only, no deps committed)
+node_modules/
