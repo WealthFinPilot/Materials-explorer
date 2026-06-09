@@ -1,8 +1,8 @@
-# Materials Identifier
+# Materials Explorer
 
 A browser-based tool that matches a client's steel sample against a reference database — and returns the top matching grade candidates, ranked by confidence score.
 
-📲 **[◉Live app](https://materials-selector-wealthfinpilot.netlify.app)** 👆
+🔗  **Démo en ligne** : **[Materials-explorer-live-application](https://materials-selector-wealthfinpilot.netlify.app)** 👆
 
 ![Materials Identifier interface](assets/Materials-Identifier.jpeg)
 
@@ -32,14 +32,18 @@ Score = Σ(w_i · sim_i) / Σ w_i                  weighted average
 
 where `x_i` is the measured value and `s_i` the reference composition for element `i`. Only the elements actually entered by the user contribute to the score, so a partial reading still produces a ranked result. The output is a sorted shortlist of the most probable grades with a percentage score.
 
+**The tool also works in reverse**.
+Given a target grade, it returns the full requirement profile — element by element, with accepted ranges and maximum thresholds — along with its documented applications (product forms, material family).
+For compliance verification, the engine runs a requirement-aware scoring pass: each element in the client composition is checked against the grade's specification. Elements that fall within tolerance contribute positively to the score; elements outside their required range are flagged as non-conforming. The output is a ranked shortlist of the best candidate grades, each labeled PASS or FAIL, with a per-element breakdown showing exactly which values conform and which do not.
+
 ## Databases
 
 | Database | Alloy family | Reference alloys | Elements |
 |---|---|---|---|
-| Carbon & Low-Alloy Steel | Fe-C base | 44 | 18 |
-| Stainless Steel (Fe-Cr-Ni) | Austenitic / martensitic | 12 | 18 |
+| Carbon & Low-Alloy Steel | Fe-C base | 203 | 18 |
+| Stainless Steel (Fe-Cr-Ni) | Austenitic / martensitic | 183 | 18 |
 
-Reference compositions are sourced from certified standard materials (BCS, IARM, CRM series).
+Reference compositions are sourced from certified standard materials and ASTM specifications (BCS, IARM, CRM series, UNS code).
 
 ## Stack
 
