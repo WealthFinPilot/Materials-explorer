@@ -1,5 +1,8 @@
 # Materials Explorer
 
+![Status](https://img.shields.io/badge/status-in%20active%20use-brightgreen)
+![ISO/IEC 17025](https://img.shields.io/badge/ISO%2FIEC-17025-0A66C2)
+
 A browser-based tool that matches a client's steel sample against a reference database — and returns the top matching grade candidates, ranked by confidence score.
 
 🔗  **Démo en ligne** : **[Materials-explorer.netlify.app](https://materials-selector-wealthfinpilot.netlify.app)** 👆
